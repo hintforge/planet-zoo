@@ -1,0 +1,28 @@
+# Animals -- European Fallow Deer
+
+**status:** research-integrated
+**last_reconciled:** 2026-08-22
+
+**Continent:** Europe | **IUCN (real):** Least Concern (native Turkish populations declining from habitat loss/poaching) | **Housing type:** Habitat (also Walkabout since Update 1.8.1)
+
+## Housing & environment
+
+[Hypothesis - unverified, numeric fields not sourced this pass]
+- **Biome(s):** Temperate, Grassland
+
+## Social, diet, enrichment
+
+- **Social type / group:** Loose mixed herds plus bachelor groups, lekking mating system
+- **Mixing compatibility:** Widest cross-species compatibility list found for any Europe Pack animal this pass -- Highland Cattle (Barnyard DLC), Mute Swan (Eurasia DLC), Red Deer (base-game), Tamworth Pig (Barnyard DLC), Wild Boar (Eurasia DLC), Wisent (Eurasia DLC)
+- **Diet/enrichment:** Not specified in source data this pass
+
+## Welfare gotcha
+
+Six confirmed mixing partners is the widest compatibility list found for any Europe Pack species this pass. Gained Walkabout housing in Update 1.8.1, after initially launching as Habitat-only. No German/Chinese welfare-spreadsheet triangulation reached the Europe Pack this pass -- numeric habitat sizes remain unverified for all 5 Europe Pack species, this one included.
+
+_source: Planet Zoo DLC research pass (P3) 2026-08-22 · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Europe Pack_
+
+## Sources
+- store.steampowered.com/app/1726150 [storefront]
+- planetzoo.fandom.com/wiki/Europe_Pack [community-wiki]
+- one.planetzoogame.com/news/planet-zoo-europe-pack-arriving-14-december [official-news]
