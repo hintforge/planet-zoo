@@ -30,5 +30,12 @@
 !README.md
 !assets/**
 
+# --- Interactive artifacts (self-contained player tools, 2026-09-16) ---
+# Presentation/tooling, NOT corpus the reader loads -- so whitelisted here rather
+# than declared as a vector-extension in the manifest. The dev-side build spec
+# (artifacts/*_spec.md) is deliberately NOT shipped: it carries authoring notes.
+!artifacts/*.html
+!artifacts/README.md
+
 # --- Declared vector-extensions (one !<ext>/** per manifest entry) ---
 !animals/**
