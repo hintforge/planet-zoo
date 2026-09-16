@@ -85,6 +85,17 @@ _source: deep-research cascade P1 2026-08-21 · capture: web_fetch · confidence
 
 _source: deep-research cascade P1 2026-08-21 · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
+### Sex-ratio caps within a social group
+
+Separate from the group-size range each species carries, a species also has a **male:female cap** -- a ceiling on how many males a group may hold relative to its females, above which sex-based fighting starts. The cap behaves as a **ratio, not a fixed pair**: divide the male figure by the female figure, multiply by the actual female count, and that is the permitted number of males.
+
+- **Indian Peafowl -- 4:16.** A muster of 20 may hold up to 4 males and 16 females. 4/16 = 0.25, so 2 males alongside 8 females is within the cap; 2 males alongside 7 females is over it.
+- **West African Lion -- 1:29.** Males do not tolerate one another whenever a mate is present, without exception. A bachelor-only group may instead hold up to 4 males, or up to 30 females.
+
+**This is a planning constraint the group-size field alone does not express**: a habitat sized correctly for 20 peafowl still fails if the sex split is wrong. Only these two species were recovered at this granularity -- the cap applies game-wide, but per-species figures for the rest of the roster are **not obtained**. Treat an undocumented species' cap as unknown; do not assume a default ratio.
+
+_source: manually-collected community research pass 2026-09-16 (Steam Community guide "Saturn's Comprehensive Guide to Planet Zoo" by leemonshark) · capture: manual-clipping · confidence: low (single-source community guide; only two species documented at this granularity) · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 ## Habitats & Enclosures
 
 ### Barrier types and the escape mechanic
@@ -197,6 +208,50 @@ No mathematical formula found anywhere. Consistently reported: a qualitative gue
 Shop counter variety is **patch-gated, not rating-gated**: 8 food/drink counters added update 1.8; 8 more food/drink + 3 souvenir + 1 info counter added update 1.10; full modular Souvenir Shop building added update 1.16. Per-item price customization exists (extras like ice/ketchup raise willingness-to-pay); a "synchronize prices across all shops" toggle exists in Facilities. Donation bins are a single facility type, not tiered -- effectiveness is purely placement + preceding guest-experience quality.
 
 _source: deep-research cascade P1 2026-08-21 · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
+### Per-item shop pricing -- a worked community example
+
+No dev-published price table exists. One widely-circulated community price set is reproduced below as a **starting point to tune from**, not an optimum -- its author explicitly calls it unoptimised and still in progress.
+
+**Conditions it was derived under** (the numbers do not transfer cleanly outside them): a zoo of 8 exhibits and 6 habitats at ~2,000 guests; entry priced at **$30 adult / $15 child**; several ATMs placed; all condiment extras enabled; ongoing sale of exhibit offspring as a parallel income stream. Shop placement and guest count both move the result.
+
+| Shop | Per-item prices (in listed order) |
+|---|---|
+| Chief Beef | 12.95 / 10.25 |
+| Hotdog Squad | 12.90 / 8.90 |
+| Pizza Pen | 7.90 (all items) |
+| Cosmic Cow Ice Cream | 8.65 (all items) |
+| Street Fox Coffee | 9.50 / 9.50 / 9.50 / 8.50 |
+| Pipshot Juice | 6.10 (all items) |
+| Pipshot Water | 4.95 / 6.50 |
+| Gulpee Soda | 5.95 (all items) |
+| Gulpee Slush | 7.60 (all items) |
+| Gulpee Energy | 5.95 (all items) |
+| Just a Memento | 13.50 / 8.50 / 13.00 / 17.00 / 35.00 / 70.00 |
+| Information | 2.80 / 17.00 / 35.00 / 70.00 / 4.00 |
+| Toilets | 1.15 |
+
+**Tuning rule the author pairs with the table**: any shop showing little or no queue is overpriced -- drop that shop's prices by 15c at a time and re-test. This is the same feedback loop as the ticket-price heuristic above, run per-shop.
+
+_source: manually-collected community research pass 2026-09-16 (Steam Community discussion "Make $100,000 every 30 minutes (approx)" by MrHappy) · capture: manual-clipping · confidence: low (single-source community heuristic tuned to one specific zoo configuration; author self-describes the set as unoptimised) · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
+### The finance report -- the six categories the game itself reports
+
+The in-game finance panel breaks the zoo into six lines, and they are the natural unit for any external budgeting: **Purchases** (every animal moved plus all construction, itemised), **Ongoing Expenses** (upkeep and recurring payments -- power, wages and animal food are typically the largest), **Taxes** (scenario-dependent; several types exist and many scenarios have none), **Income** (all earnings by source), **Cash Flow** (income minus expenses), and **Total Profit** (net; the number that should read green).
+
+Profit legitimately oscillates month to month -- an arrow alternating red and green is normal business fluctuation, and only a sustained red run signals a real problem.
+
+### Opening economy playbook -- one experienced player's practice
+
+A community opening sequence for Franchise, recorded as one author's practice rather than an optimal line:
+
+- **Starter species: Indian Peafowl.** Cheap to buy, large litters, a highly flexible temperature band (3-42 degC), low land requirement, and eligible for an interactive (walkabout) habitat which draws more guest attention. Fencing can be **hedges at $0.80**, which need no plant coverage. A single mirror mobile plus a slow feeder covers enrichment at the start. Downside: their habitat is hard to keep clean. Buy for cash rather than Conservation Credits early, prioritising fertility and immunity over a perfect stat line.
+- **Butterfly engine (Grasslands Animal Pack only).** A **walkthrough exhibit costs $9,000** up front. Butterflies die fast but breed heavily; buy 2-4 of each sex ignoring stats, set the exhibit to ~25 degC, then use the exhibit's **Management** panel: enable "manage population", set the per-sex maximum to 10 or higher, and set processing to "store in trade center" so surplus flows to sale automatically. Place it near the entrance or the first habitat so guests actually reach it.
+- **Education as a paired income and rating lever.** Speakers covering half a path without overlapping raise education across the zoo; a base tour touching at least three habitats priced at **$3-5** attracts guests while earning -- short tours need no break stops. Both require paying an educator, so add them once profit is already stable.
+
+**Cross-mode caution**: this playbook assumes Franchise. See the cross-mode table below before transplanting any of it.
+
+_source: manually-collected community research pass 2026-09-16 (Steam Community guide "Saturn's Comprehensive Guide to Planet Zoo" by leemonshark; finance-report categories from one.planetzoogame.com Beginner's Guide and Steam Community guide "Planet Zoo: The Comprehensive Guide") · capture: manual-clipping · confidence: medium (finance-report categories corroborated by the official help-centre) / low (opening playbook is one author's practice) · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 ### Cross-mode economy differences (critical -- never merge these)
 
