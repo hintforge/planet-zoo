@@ -13,6 +13,7 @@
 - **Water:** 125 m² min (individual total 425 m²)
 - **Temperature range:** 8-40 degC
 - **Biome:** Aquatic, Grassland, Tropical, Temperate
+- **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. Workable walkthrough if a single guest gate caps how many get inside at once. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

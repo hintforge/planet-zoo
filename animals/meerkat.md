@@ -11,6 +11,7 @@
 - **Water:** 0 m²
 - **Temperature range:** 13-43 degC
 - **Biome(s):** Desert, Grassland
+- **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

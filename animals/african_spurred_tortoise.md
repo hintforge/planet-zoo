@@ -13,6 +13,12 @@
 
 The Wikipedia snapshot captured this pass states Endangered. The model's own recollection of the IUCN's 2021 assessment is Vulnerable. This pass could not cross-verify directly against the IUCN Red List (site returned 403). **Confidence: low** for the IUCN status field pending direct Red List verification.
 
+## Housing & environment
+
+- **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
+
+This is the only in-game welfare field recovered for this species so far; the gap above otherwise still stands.
+
 ## Real-world biology (Wikipedia-sourced, not in-game data)
 
 - **Native range:** Africa, Sahel / southern edge of the Sahara

@@ -11,6 +11,7 @@
 - **Terrain:** 40% grass
 - **Temperature range:** -15 to 35 degC (ideal 10)
 - **Biome:** Temperate/Forest
+- **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

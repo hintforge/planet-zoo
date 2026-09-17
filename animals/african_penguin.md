@@ -11,6 +11,7 @@
 - **Water:** 135 m² base / +2 m² per extra; deep water (>4m) 67 m² base / +2 m² per extra
 - **Temperature range:** 3-43 degC
 - **Biome(s):** Aquatic, Desert
+- **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

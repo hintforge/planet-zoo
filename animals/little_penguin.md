@@ -11,6 +11,7 @@
 - **Water:** +1 m²/group
 - **Temperature range:** -4 to 38 degC
 - **Biome(s):** Temperate, Grassland, Aquatic
+- **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

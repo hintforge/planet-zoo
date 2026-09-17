@@ -13,6 +13,7 @@
 - **Temperature range:** -15 to 29 degC
 - **Biome:** Temperate, Taiga
 - **Terrain composition:** grass 0-40% / soil 0-40% / rock 0-100% / sand 0-15% / snow 20-100%
+- **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. The safest walkthrough choice. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

@@ -13,6 +13,7 @@ Added free via the "Anniversary Update" (patch 1.15.2) -- not paid DLC, despite 
 - **Terrain:** 20/20/20 grass/sand/rock
 - **Temperature range:** 5-30 degC (ideal 20)
 - **Biome:** Temperate
+- **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

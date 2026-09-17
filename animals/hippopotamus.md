@@ -13,6 +13,7 @@
 - **Temperature range:** 10-38 degC
 - **Biome:** Aquatic, Grassland
 - **Terrain composition:** grass 0-50% / soil 20-60% / rock 20-40% / sand 0-40% / snow 0%
+- **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

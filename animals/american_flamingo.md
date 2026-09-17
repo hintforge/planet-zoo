@@ -10,6 +10,7 @@
 - **Land (individual / family):** 425 m² / 929 m²
 - **Temperature range:** -4 to 42°C
 - **Biome(s):** Tropical, Aquatic, Grassland, Temperate
+- **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. Workable walkthrough if a single guest gate caps how many get inside at once. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

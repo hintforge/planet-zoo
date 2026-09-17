@@ -11,6 +11,7 @@
 - **Water:** 360 m² base / +46 m² per extra; deep water 170 m² base / +25 m² per extra
 - **Temperature range:** -4 to 31 degC
 - **Biome(s):** Aquatic, Temperate
+- **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

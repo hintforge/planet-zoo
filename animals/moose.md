@@ -11,6 +11,7 @@
 - **Water:** 20 m² base / +10 m² per extra
 - **Temperature range:** -22 to 20 degC
 - **Biome(s):** Taiga (Temperate and Tundra added since Update 1.8; Aquatic added since Update 1.9.1)
+- **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

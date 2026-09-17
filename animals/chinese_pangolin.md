@@ -13,6 +13,7 @@
 - **Temperature range:** 12-42 degC
 - **Biome:** Tropical, Temperate
 - **Terrain composition:** grass 10-30% / soil 10-90% / rock 0-50% / sand 0-20% / snow 0%
+- **Guest tolerance:** Shy -- stresses when guests get close or crowd in. Walkabout-eligible but a poor walkthrough choice: keep the path off the main route, or skip the guest gate and use hiding cover plus one-way glass instead. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

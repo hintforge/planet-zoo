@@ -11,6 +11,7 @@
 - **Water:** ~25% of total habitat area; 2 m dive depth
 - **Temperature range:** 12-42 degC
 - **Biome(s):** Aquatic, Tropical
+- **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

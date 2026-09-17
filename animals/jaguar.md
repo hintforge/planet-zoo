@@ -13,6 +13,7 @@
 - **Family total:** 965 m²
 - **Temperature range:** 8-42 degC
 - **Biome(s):** Tropical, Grassland, Temperate, Aquatic
+- **Guest tolerance:** Shy -- stresses when guests get close or crowd in. Needs hiding cover, one-way glass, or a low-traffic placement. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

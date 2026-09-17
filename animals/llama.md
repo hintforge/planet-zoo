@@ -11,6 +11,7 @@
 - **Water:** 0 m²
 - **Temperature range:** -5 to 40 degC
 - **Biome(s):** Grassland, Taiga, Temperate
+- **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

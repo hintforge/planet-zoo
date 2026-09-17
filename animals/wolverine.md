@@ -11,6 +11,7 @@
 - **Water:** Not specified in source data
 - **Temperature range:** -13 to 28 degC -- the coldest tolerance of any species in this pack
 - **Biome(s):** Tundra, Taiga
+- **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

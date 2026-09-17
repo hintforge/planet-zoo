@@ -11,6 +11,7 @@
 - **Terrain:** 60% grass / 20% sand / 10% rock
 - **Temperature range:** 20-30 degC (ideal 25)
 - **Biome:** Tropical/temperate forest
+- **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

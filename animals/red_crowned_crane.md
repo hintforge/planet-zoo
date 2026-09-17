@@ -11,6 +11,7 @@
 - **Water:** not specified separately in source data (Aquatic listed among biomes -- water component required) `[Single source - verify]`
 - **Temperature range:** -13 to 31°C `[Single source - verify]`
 - **Biome(s):** Aquatic, Taiga, Tundra, Temperate
+- **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. Workable walkthrough if a single guest gate caps how many get inside at once. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

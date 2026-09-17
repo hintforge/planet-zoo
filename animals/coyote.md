@@ -10,6 +10,7 @@
 - **Land (individual / family):** 920 m² / 1,150 m²
 - **Temperature range:** -8 to 43°C
 - **Biome(s):** Grassland, Desert, Temperate, Taiga, Tropical
+- **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 
