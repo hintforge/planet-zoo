@@ -9,6 +9,7 @@
 
 [Hypothesis - unverified, numeric fields not sourced this pass]
 - **Biome(s):** Taiga (used as a cold-mountain proxy in-game), likely also Grassland
+- **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

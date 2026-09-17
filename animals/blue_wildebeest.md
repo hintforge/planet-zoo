@@ -11,6 +11,7 @@
 - **Water:** 0 m² (Aquatic not listed among biomes)
 - **Temperature range:** 8-40°C
 - **Biome(s):** Grassland
+- **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

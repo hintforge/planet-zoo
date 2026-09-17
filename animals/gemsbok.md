@@ -13,6 +13,7 @@
 - **Temperature range:** 8-43 degC
 - **Biome:** Desert
 - **Terrain composition:** grass 0-100% / soil 0-20% / rock 0-60% / sand 40-100% / snow 0%
+- **Guest tolerance:** Shy -- stresses when guests get close or crowd in. Needs hiding cover, one-way glass, or a low-traffic placement. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

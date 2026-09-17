@@ -11,6 +11,7 @@
 - **Total habitat (land+water):** 399 m² -- water portion not separately itemized in source data
 - **Temperature range:** -20 to 17 degC
 - **Biome(s):** Aquatic, Tundra
+- **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

@@ -13,6 +13,7 @@
 - **Temperature range:** -40 to 44 degC (widest tolerated range of the base roster)
 - **Biome:** Desert, Temperate
 - **Terrain composition:** grass 0-20% / soil 0-80% / rock 10-60% / sand 40-100% / snow 0-40%
+- **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

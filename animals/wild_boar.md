@@ -11,6 +11,7 @@
 - **Water:** Not specified in source data
 - **Temperature range:** -4 to 43 degC
 - **Biome(s):** Taiga, Temperate, Grassland, Tropical, Desert -- the broadest biome tolerance found in this pack
+- **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

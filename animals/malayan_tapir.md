@@ -11,6 +11,7 @@
 - **Water:** 0 m² (no separate water field given; Aquatic is a listed biome)
 - **Temperature range:** 6-42 degC
 - **Biome(s):** Aquatic, Temperate, Tropical
+- **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

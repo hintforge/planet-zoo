@@ -13,6 +13,7 @@
 - **Temperature range:** -8 to 29 degC
 - **Biome:** Temperate Forest, Taiga, Tundra
 - **Fence grade:** 2 (>1.25m)
+- **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

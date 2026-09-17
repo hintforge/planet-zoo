@@ -11,6 +11,7 @@
 - **Water:** not specified separately in source data (Aquatic listed among biomes -- water component required)
 - **Temperature range:** -9 to 42°C
 - **Biome(s):** Aquatic, Temperate, Grassland, Taiga, Tropical
+- **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. The safest walkthrough choice. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

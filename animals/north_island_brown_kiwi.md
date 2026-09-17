@@ -11,6 +11,7 @@
 - **Water:** Not specified in source data
 - **Temperature range:** -4 to 35 degC
 - **Biome(s):** Temperate
+- **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

@@ -11,6 +11,7 @@
 - **Water:** 624 m²
 - **Temperature range:** -15 to 26 degC
 - **Biome(s):** Aquatic, Temperate, Tundra
+- **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

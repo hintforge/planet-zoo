@@ -12,6 +12,7 @@
 - **Climb:** 56 m² base / +28 m² per extra, climbs
 - **Temperature range:** 6-42 degC
 - **Biome(s):** Grassland, Temperate, Tropical
+- **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

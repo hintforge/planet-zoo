@@ -10,6 +10,7 @@
 - **Land (individual / family):** 534 m² / 756 m²
 - **Temperature range:** 13-38°C
 - **Biome(s):** Tropical, Grassland ([Contradicted across sources] -- the Fandom wiki's trivia states a Desert biome was added in Update 1.20, but this is not reflected in the numeric-pull data sheet used for this research pass; confidence downgraded to low for this field pending reconciliation)
+- **Guest tolerance:** Shy -- stresses when guests get close or crowd in. Needs hiding cover, one-way glass, or a low-traffic placement. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

@@ -13,6 +13,7 @@
 - **Temperature range:** 13-42 degC
 - **Biome:** Grassland, Tropical
 - **Terrain composition:** grass 0-50% / soil 0-60% / rock 0-10% / sand 0-10% / snow 0%
+- **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

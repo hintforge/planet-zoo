@@ -11,6 +11,7 @@
 - **Water:** 0 m² (Aquatic not listed among biomes)
 - **Temperature range:** 0-43°C
 - **Biome(s):** Grassland, Desert, Temperate
+- **Guest tolerance:** Shy -- stresses when guests get close or crowd in. Needs hiding cover, one-way glass, or a low-traffic placement. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

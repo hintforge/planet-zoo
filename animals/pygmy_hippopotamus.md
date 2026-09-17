@@ -11,6 +11,7 @@
 - **Water:** equal to land (per source note, not separately itemized)
 - **Temperature range:** 12-42 degC
 - **Biome(s):** Aquatic, Tropical
+- **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

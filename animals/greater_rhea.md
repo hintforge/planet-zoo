@@ -10,6 +10,7 @@
 - **Land (individual / family):** 660 m² / 993 m²
 - **Temperature range:** -4 to 38°C
 - **Biome(s):** Grassland, Temperate
+- **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

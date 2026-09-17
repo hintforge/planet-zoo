@@ -235,6 +235,20 @@ for path in sorted(glob.glob(BASE + u"*.md")):
     if mm:
         conf = mm.group(1)
 
+    # Guest tolerance -- the game's relationship-with-humans stat. NOTE: kept
+    # under its own key. `confidence` above is SOURCE confidence, a different
+    # thing entirely; do not merge them.
+    guest = None
+    guest_note = field(txt, u"Guest tolerance")
+    if guest_note:
+        # Drop the trailing `[source date]` marker -- it is corpus provenance,
+        # and the artifact renders this string as prose. Leaving it in printed
+        # the backticks literally on the page.
+        guest_note = re.sub(r"\s*`\[[^\]]*\]`\s*$", u"", guest_note).strip()
+        mm = re.match(r"(Shy|Neutral|Confident)\b", guest_note)
+        if mm:
+            guest = mm.group(1)
+
     gap = u"## Gap flag" in txt or u"Gap flag --" in txt
 
     land, per_adult, fam, land_label = parse_land(txt)
@@ -286,6 +300,8 @@ for path in sorted(glob.glob(BASE + u"*.md")):
         u"walkthrough": walkthrough,
         u"dlc": dlc,
         u"confidence": conf,
+        u"guest_confidence": guest,
+        u"guest_note": guest_note,
         u"gap": gap,
         u"land": land,
         u"land_per_adult": per_adult,
@@ -326,7 +342,7 @@ print(u"species: %d" % tot)
 for k in [u"latin", u"continent", u"iucn", u"housing_raw", u"dlc", u"land",
           u"land_per_adult", u"water", u"climb", u"temp_min", u"social",
           u"group_max", u"males_max", u"biomes", u"mixing", u"diet",
-          u"terrain", u"gotcha"]:
+          u"terrain", u"gotcha", u"guest_confidence"]:
     print(cov(k))
 print(u"gap-flagged: %d" % sum(1 for r in records if r[u"gap"]))
 print(u"exhibits: %d  habitats: %d" % (

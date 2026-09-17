@@ -9,9 +9,16 @@ A working surface to keep open beside the game.
 
 - **Roster.** All 210 species in one sortable, filterable table -- land and water area,
   climbing area, temperature band, social group size, sex-ratio cap, biome, diet, mixing
-  compatibility, IUCN status and pack. Filter by continent, biome, housing type, pack,
-  conservation status or data completeness. Click any row for the full record, including its
-  terrain composition and welfare gotcha.
+  compatibility, guest tolerance, IUCN status and pack. Filter by continent, biome, housing
+  type, guest tolerance, pack, conservation status or data completeness. Click any row for
+  the full record, including its terrain composition and welfare gotcha.
+- **Guest tolerance.** Every Habitat species is marked `Shy`, `Neutral` or `Confident` --
+  the game's own relationship-with-humans stat, which decides how much guest proximity and
+  crowding it absorbs before Stress starts climbing. This is the stat that decides whether a
+  walkthrough habitat is a good idea; the Walkabout flag only decides whether the game will
+  let you build one. Eight Walkabout-eligible species are `Shy`, so the roster marks their
+  walkabout pill with a warning and the housing filter offers **Walkabout -- guest-tolerant
+  only** as a shortlist you can build from.
 - **Plan.** Add species with the male/female split you intend to keep. It totals the land,
   water and climbing area the game will require, and flags sex-ratio breaches, group sizes
   outside the documented range, and any species whose data is incomplete.
@@ -54,3 +61,10 @@ the corpus follows its sources, but no one has yet sat with the game open and co
 a habitat sized here satisfies the game. Treat totals as a floor to clear, not a guarantee --
 and they cover the animals only, not paths, barriers, viewing areas or the space between
 habitats.
+
+The one correction a player has sent back so far is the reason the guest-tolerance column
+exists: the roster let them filter to Walkabout species and pick an Aardvark, which is
+Walkabout-eligible and also Shy, and the walkthrough they built ran into the low-welfare
+warnings the flag gave no hint of. If you find another gap like it, the repository's issues
+are the place for it -- a report that names the species and what the game actually did is
+worth more than a whole research pass.

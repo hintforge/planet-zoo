@@ -11,6 +11,7 @@
 - **Water:** 0 m² (Aquatic not listed among biomes)
 - **Temperature range:** -9 to 43°C
 - **Biome(s):** Grassland, Desert
+- **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

@@ -26,7 +26,8 @@ A structured Markdown corpus — core mechanics (welfare, conservation, economic
 
 A self-contained planner built from this corpus — [`artifacts/zoo_planner.html`](artifacts/zoo_planner.html). Download it, open it in any browser, keep it beside the game. Nothing is installed and nothing leaves your machine.
 
-- **Roster** — all 210 species in one sortable table: land, water and climbing area, temperature band, group size, sex-ratio cap, biome, diet, mixing, conservation status and pack. Filter by any of them.
+- **Roster** — all 210 species in one sortable table: land, water and climbing area, temperature band, group size, sex-ratio cap, biome, diet, mixing, guest tolerance, conservation status and pack. Filter by any of them.
+- **Guest tolerance** — whether a species is `Shy`, `Neutral` or `Confident` around visitors, because the walkabout flag only says the game will *let* you run a path through the habitat, not that the animal will cope. Eight walkabout-eligible species are Shy and will sit in low welfare in a busy walkthrough; the roster marks them, and the housing filter offers a guest-tolerant-only shortlist.
 - **Plan** — add species with the sex split you intend to keep; it totals the area the game will demand and flags sex-ratio breaches and group sizes outside the documented range.
 - **Budget** — the four game economies kept apart, your cash and finance-report figures in, what the plan costs out.
 - **Reference** — sex-ratio caps, a worked shop-pricing example, an opening playbook, and the career medal objectives.

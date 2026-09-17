@@ -11,6 +11,7 @@
 - **Water:** not specified separately in source data (Aquatic listed among biomes -- water component required) `[Single source - verify]`
 - **Temperature range:** -4 to 42°C `[Single source - verify]`
 - **Biome(s):** Aquatic, Tropical, Temperate, Grassland
+- **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. The safest walkthrough choice. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

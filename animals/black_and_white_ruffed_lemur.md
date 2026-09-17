@@ -13,6 +13,7 @@
 - **Temperature range:** 14-42 degC
 - **Biome:** Tropical
 - **Terrain composition:** grass 10-70% / soil 10-90% / rock 0-20% / sand 0-20% / snow 0%
+- **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. Workable walkthrough if a single guest gate caps how many get inside at once. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

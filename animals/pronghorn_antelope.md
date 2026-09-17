@@ -11,6 +11,7 @@
 - **Terrain:** 80% grass, desert-appropriate foliage
 - **Temperature range:** -5 to 30 degC (ideal 10)
 - **Biome:** Desert, grass foliage
+- **Guest tolerance:** Shy -- stresses when guests get close or crowd in. Walkabout-eligible but a poor walkthrough choice: keep the path off the main route, or skip the guest gate and use hiding cover plus one-way glass instead. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

@@ -11,6 +11,7 @@
 - **Fence:** Grade 2, >=1.25 m
 - **Temperature range:** -12 to 16 degC
 - **Biome(s):** Taiga, Tundra
+- **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

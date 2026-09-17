@@ -11,6 +11,7 @@
 - **Water:** 0 m²
 - **Temperature range:** -50 to 28 degC -- the widest single temperature band found across all 21 DLC packs surveyed this pass
 - **Biome(s):** Taiga, Tundra
+- **Guest tolerance:** Shy -- stresses when guests get close or crowd in. Needs hiding cover, one-way glass, or a low-traffic placement. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

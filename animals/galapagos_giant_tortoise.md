@@ -11,6 +11,7 @@
 - **Terrain:** 50% grass / 30% sand / 20% rock
 - **Temperature range:** 15-30 degC (ideal 22)
 - **Biome:** Tropical, grassland
+- **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. Workable walkthrough if a single guest gate caps how many get inside at once. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

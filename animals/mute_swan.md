@@ -10,6 +10,7 @@
 - **Water:** 150 m² (approx. 6% of total habitat area)
 - **Temperature range:** -5 to 34 degC
 - **Biome(s):** Temperate, Tropical
+- **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

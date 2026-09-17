@@ -13,6 +13,7 @@
 - **Temperature range:** -7 to 42 degC
 - **Biome:** Tropical, Temperate, Taiga
 - **Terrain composition:** grass 20-60% / soil 20-60% / rock 0-40% / sand 0-30% / snow 0-30%
+- **Guest tolerance:** Shy -- stresses when guests get close or crowd in. Needs hiding cover, one-way glass, or a low-traffic placement. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

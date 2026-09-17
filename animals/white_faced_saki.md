@@ -10,6 +10,7 @@
 - **Land (individual / family):** 210 m² / 230 m²
 - **Temperature range:** 17-42°C
 - **Biome(s):** Tropical
+- **Guest tolerance:** Shy -- stresses when guests get close or crowd in. Walkabout-eligible but a poor walkthrough choice: keep the path off the main route, or skip the guest gate and use hiding cover plus one-way glass instead. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

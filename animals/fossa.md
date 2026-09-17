@@ -11,6 +11,7 @@
 - **Water:** Not specified in source data
 - **Temperature range:** 12-42 degC
 - **Biome(s):** Tropical only
+- **Guest tolerance:** Shy -- stresses when guests get close or crowd in. Needs hiding cover, one-way glass, or a low-traffic placement. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

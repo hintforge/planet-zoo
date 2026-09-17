@@ -11,6 +11,7 @@
 - **Water:** 850 sqft [imperial units as sourced]
 - **Temperature range:** not specified in source data
 - **Biome(s):** Aquatic, Tropical, Temperate, Grassland
+- **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

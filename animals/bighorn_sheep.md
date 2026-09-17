@@ -10,6 +10,7 @@
 - **Land (individual / family):** 390 m² / 600 m²
 - **Temperature range:** -7 to 43°C
 - **Biome(s):** Grassland, Desert, Taiga
+- **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

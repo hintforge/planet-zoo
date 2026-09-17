@@ -12,6 +12,7 @@
 - **Climb:** 81 m² base / +44 m² per extra, climbs
 - **Temperature range:** 6-42 degC
 - **Biome(s):** Temperate, Tropical
+- **Guest tolerance:** Shy -- stresses when guests get close or crowd in. Needs hiding cover, one-way glass, or a low-traffic placement. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

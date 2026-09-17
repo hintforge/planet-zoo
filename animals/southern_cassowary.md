@@ -11,6 +11,7 @@
 - **Water:** 0 m²
 - **Temperature range:** 12-42 degC
 - **Biome(s):** Tropical
+- **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 

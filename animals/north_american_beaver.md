@@ -11,6 +11,7 @@
 - **Water:** 335 m² base / +32 m² per extra; deep water 65 m² base / +25 m² per extra
 - **Temperature range:** -7 to 38 degC
 - **Biome(s):** Grassland, Taiga, Temperate
+- **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. Workable walkthrough if a single guest gate caps how many get inside at once. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
 
