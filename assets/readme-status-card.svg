@@ -66,7 +66,7 @@
 
   <circle cx="96" cy="470" r="10" fill="var(--active)" stroke="#3a5e3a"/>
   <text class="mono b rlbl" x="130" y="478">VERIFIED</text>
-  <text class="mono rval" x="352" y="478">vs game v1.20.2, August 2026 &#8212; active development (21 DLC packs)</text>
+  <text class="mono rval" x="352" y="478">vs game v1.20.2; corpus data September 2026 &#8212; active development (21 DLC packs)</text>
   <line x1="78" y1="500" x2="1422" y2="500" stroke="var(--rule)" stroke-width="1"/>
 
   <circle cx="96" cy="536" r="10" fill="var(--active)" stroke="#3a5e3a"/>
@@ -95,6 +95,6 @@
     <rect x="0" y="0" width="210" height="104" rx="10" fill="none" stroke="var(--stamp)" stroke-width="6"/>
     <rect x="12" y="12" width="186" height="80" rx="6" fill="none" stroke="var(--stamp)" stroke-width="2"/>
     <text class="mono b stamp-t" x="105" y="50" text-anchor="middle">VERIFIED</text>
-    <text class="mono b stamp-s" x="105" y="80" text-anchor="middle">AUG 2026</text>
+    <text class="mono b stamp-s" x="105" y="80" text-anchor="middle">SEP 2026</text>
   </g>
 </svg>

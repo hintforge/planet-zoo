@@ -14,7 +14,7 @@ This game is `narrative-no-nav` (a construction-and-management sim), so there is
 corpus-core-version: 6
 game-version: "1.20.2"
 game-version-platform: "PC / Steam"
-game-version-as-of: 2026-08-22
+game-version-as-of: 2026-09-17
 vector-extensions: [animals]
 ```
 
