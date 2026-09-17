@@ -36,6 +36,7 @@
 # (artifacts/*_spec.md) is deliberately NOT shipped: it carries authoring notes.
 !artifacts/*.html
 !artifacts/README.md
+!artifacts/*.py
 
 # --- Declared vector-extensions (one !<ext>/** per manifest entry) ---
 !animals/**
