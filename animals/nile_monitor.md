@@ -13,6 +13,7 @@
 - **Temperature range:** 12-42 degC
 - **Biome:** Aquatic, Grassland, Tropical
 - **Terrain composition:** grass 0-50% / soil 20-60% / rock 20-40% / sand 0-40% / snow 0%
+- **Barrier:** grade 2, 0.5 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -21,6 +22,7 @@
 - **Mixing compatibility:** None
 - **Diet:** Rodents / Mealworms / Amphibians
 - **Enrichment sample:** Bamboo Feeder, Restraint Feeder, Blood Scent Marker
+- **Sex-ratio cap:** 1 males : 2 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

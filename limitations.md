@@ -70,3 +70,63 @@ Sources I found that look useful but couldn't fully fetch -- paywalls, Cloudflar
 
 - **Developer achievement descriptions** -- Steam/PSN/Xbox achievement description text is publisher IP and is intentionally NOT captured. Achievement *names* are captured verbatim (lookup keys); trigger conditions are researched and paraphrased in P1, not lifted from the platform.
 - **Dormant vectors** -- Planet Zoo has no enemies, no combat, and no traditional puzzles, so the `boss` / `enemy` / `puzzle` research vectors have no content to fill. This is expected, not a gap.
+
+## Two community datasets disagree on 37 habitat figures (added 2026-09-17)
+
+The 2026-09-17 fill pass sourced housing data from planetzoohelper.com for every habitat
+species. Where the corpus already held a figure from the 2026-08 P1/P3 passes (Fandom plus
+the senginous/Villanelle spreadsheets), the two agree on 99 of 140 land figures, 87 of 93
+water figures and most climb figures. **They disagree on the 37 below, and this corpus does
+not know which is right.**
+
+The existing figure was kept in every case -- a newer capture is not automatically a better
+one, and silently swapping 37 numbers to the source that happened to be read last would
+destroy the earlier research without recording that it had happened. The planner therefore
+shows the P1/P3 figure for these species.
+
+Resolving this needs a third source per species, the way the P3 pass resolved the
+`greater_flamingo` / `red_deer` / `timber_grey_wolf` contradiction: check both against a
+current Fandom page or in-game Zoopedia for a known patch. Nobody has done that. The
+disagreements are not random -- most are the corpus reading high -- which is consistent with
+the two datasets measuring different things (a group-sized minimum versus a single-animal
+one), but that is a hypothesis, not a finding.
+
+| Species | Field | Corpus (P1/P3, 2026-08) | planetzoohelper (2026-09-17) |
+|---|---|---|---|
+| Colombian White-Faced Capuchin Monkey | climb min | 215 m2 | 20 m2 |
+| Jaguar | climb min | 861 m2 | 80 m2 |
+| Koala | climb min | 215 m2 | 20 m2 |
+| Alpaca | land min | 395 m2 | 325 m2 |
+| Alpine Goat | land min | 415 m2 | 390 m2 |
+| American Bison | land min | 1000 m2 | 420 m2 |
+| American Flamingo | land min | 425 m2 | 300 m2 |
+| Asian Small-Clawed Otter | land min | 294 m2 | 210 m2 |
+| Baird's Tapir | land min | 200 m2 | 430 m2 |
+| Bush Dog | land min | 575 m2 | 500 m2 |
+| Capybara | land min | 355 m2 | 285 m2 |
+| Caracal | land min | 590 m2 | 534 m2 |
+| Collared Peccary | land min | 400 m2 | 300 m2 |
+| Giant Otter | land min | 504 m2 | 360 m2 |
+| Grey Seal | land min | 500 m2 | 200 m2 |
+| Grizzly Bear | land min | 750 m2 | 775 m2 |
+| Highland Cattle | land min | 615 m2 | 455 m2 |
+| Hill Radnor Sheep | land min | 535 m2 | 425 m2 |
+| Jaguar | land min | 705 m2 | 668 m2 |
+| King Penguin | land min | 344 m2 | 200 m2 |
+| Lar Gibbon | land min | 60 m2 | 230 m2 |
+| Nile Lechwe | land min | 435 m2 | 390 m2 |
+| Platypus | land min | 270 m2 | 180 m2 |
+| Polar Bear | land min | 3970 m2 | 3250 m2 |
+| Pronghorn Antelope | land min | 500 m2 | 370 m2 |
+| Pygmy Hippopotamus | land min | 540 m2 | 270 m2 |
+| Raccoon | land min | 220 m2 | 210 m2 |
+| Red-Crowned Crane | land min | 375 m2 | 300 m2 |
+| Spectacled Caiman | land min | 460 m2 | 240 m2 |
+| Sussex Chicken | land min | 212 m2 | 200 m2 |
+| Wild Water Buffalo | land min | 590 m2 | 570 m2 |
+| Asian Water Monitor | water min | 2 m2 | 75 m2 |
+| Giant Otter | water min | 696 m2 | 144 m2 |
+| Grey Seal | water min | 624 m2 | 300 m2 |
+| Jaguar | water min | 398 m2 | 37 m2 |
+| Little Penguin | water min | 1 m2 | 60 m2 |
+| Malayan Tapir | water min | 0 m2 | 37 m2 |

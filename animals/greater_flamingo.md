@@ -11,8 +11,11 @@
 
 - **Land:** 300 m² + 9 m²/additional
 - **Water:** 125 m² min (individual total 425 m²)
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** 8-40 degC
 - **Biome:** Aquatic, Grassland, Tropical, Temperate
+- **Terrain composition:** grass 0-50% / soil 20-60% / rock 20-40% / sand 0-40% / snow 0-0% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 1, 1 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. Workable walkthrough if a single guest gate caps how many get inside at once. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -20,6 +23,7 @@
 - **Social type / group:** Gregarious flock, monogamous pairing, 10-500
 - **Mixing compatibility:** None -- doesn't benefit from sharing space with other species
 - **Diet/enrichment:** Bird Pellets / Shrimp / Mollusks & Blue-Green Algae; Waterfall and Metal Frame
+- **Sex-ratio cap:** 500 males : 500 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

@@ -9,8 +9,11 @@
 
 - **Land min (individual / family):** 225 m² / 315 m²
 - **Water:** 0 m² (Aquatic not listed among biomes)
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** -4 to 38°C
 - **Biome(s):** Grassland, Temperate
+- **Terrain composition:** grass 0-70% / soil 0-100% / rock 0-10% / sand 0-30% / snow 0-0% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 2, 1 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -18,6 +21,7 @@
 - **Social type / group:** Group 1-2; social structure not detailed in source data
 - **Mixing compatibility:** None listed in source data
 - **Diet/enrichment:** Not otherwise detailed in source data
+- **Sex-ratio cap:** 1 males : 1 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

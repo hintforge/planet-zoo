@@ -8,7 +8,13 @@
 ## Housing & environment
 
 [Hypothesis - unverified, numeric fields not sourced this pass]
+- **Land min / +per adult:** 615 m² / +165 m² `[planetzoohelper 2026-09-17]`
+- **Water min:** 0 m² `[planetzoohelper 2026-09-17]`
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
+- **Temperature range:** -13-38 degC `[planetzoohelper 2026-09-17]`
 - **Biome(s):** Temperate/boreal forest and mountains
+- **Terrain composition:** grass 20-100% / soil 0-75% / rock 0-20% / sand 0-10% / snow 0-100% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 3, 3 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Shy -- stresses when guests get close or crowd in. Needs hiding cover, one-way glass, or a low-traffic placement. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -16,6 +22,7 @@
 - **Social type / group:** Solitary in the wild; captive pairs "form strong bonds" per source bio text
 - **Mixing compatibility:** Did not resolve this pass -- flagged as a gap
 - **Diet/enrichment:** Rubbing Pad Bark enrichment item
+- **Sex-ratio cap:** 1 males : 1 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

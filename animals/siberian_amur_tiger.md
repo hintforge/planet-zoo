@@ -13,6 +13,7 @@
 - **Temperature range:** -15 to 28 degC
 - **Biome:** Temperate, Taiga
 - **Terrain composition:** grass 0-60% / soil 0-50% / rock 0-70% / sand 0-20% / snow 0-100%
+- **Barrier:** grade 3, 3 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -21,6 +22,7 @@
 - **Mixing compatibility:** None
 - **Diet:** Processed Meat / Whole Carcass / Whole Fish
 - **Enrichment sample:** Frozen Blood Pumpkin, Scratching Post
+- **Sex-ratio cap:** 1 males : 1 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

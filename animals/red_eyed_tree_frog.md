@@ -7,9 +7,9 @@
 
 ## Housing & environment
 
-- **Group size:** 1-5
 - **Temperature / Humidity:** 26-31 degC / 80-90%
 - **Biome(s):** Tropical
+- **Group size:** 1-5
 
 ## Social, diet, enrichment
 

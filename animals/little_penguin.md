@@ -7,10 +7,15 @@
 
 ## Housing & environment
 
+- **Land min / +per adult:** 180 m² / +2 m² `[planetzoohelper 2026-09-17]`
 - **Land +per adult (per-CC scaling):** +0.10 m²/CC
+- **Water min:** 60 m² (of which deep water 35 m²) `[planetzoohelper 2026-09-17]`
 - **Water:** +1 m²/group
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** -4 to 38 degC
 - **Biome(s):** Temperate, Grassland, Aquatic
+- **Terrain composition:** grass 0-10% / soil 0-30% / rock 0-50% / sand 50-100% / snow 0-0% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 1, 1 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -18,6 +23,7 @@
 - **Social type / group:** 6-500, colonial
 - **Mixing compatibility:** Not listed in source data
 - **Diet/enrichment:** Not itemized in source data this pass
+- **Sex-ratio cap:** 500 males : 500 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

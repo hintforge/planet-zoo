@@ -7,8 +7,8 @@
 
 ## Housing & environment
 
-- **Group size:** 1-90 (largest group cap of any base-game species)
 - **Temperature / Humidity:** not shown (flying insect, no temp/humidity band displayed)
+- **Group size:** 1-90 (largest group cap of any base-game species)
 - **Diet:** Nectar
 - **Enrichment sample:** Nectar feeder, milkweed, buddleja
 

@@ -7,10 +7,10 @@
 
 ## Housing & environment
 
-- **Group size / cap:** 3-6 group, cap approximately 90
 - **Water:** n/a -- Walkthrough Exhibit, no land/water metric given in source data
 - **Temperature range:** 21-28°C
 - **Biome(s):** Temperate, Grassland, Taiga
+- **Group size / cap:** 3-6 group, cap approximately 90
 
 ## Social, diet, enrichment
 

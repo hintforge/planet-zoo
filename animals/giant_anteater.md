@@ -9,8 +9,11 @@
 
 - **Land (individual / family):** 660 m² / 780 m²
 - **Water:** 0 m²
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** 8-42 degC
 - **Biome(s):** Tropical, Grassland
+- **Terrain composition:** grass 20-100% / soil 10-100% / rock 0-10% / sand 0-30% / snow 0-0% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 2, 1.25 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -18,6 +21,7 @@
 - **Social type / group:** 1-2, solitary
 - **Mixing compatibility:** Baird's Tapir, Capybara, Collared Peccary, Colombian White-Faced Capuchin Monkey, Maned Wolf
 - **Diet/enrichment:** not specified in source data
+- **Sex-ratio cap:** 1 males : 1 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

@@ -13,6 +13,7 @@
 - **Temperature range:** -40 to 44 degC (widest tolerated range of the base roster)
 - **Biome:** Desert, Temperate
 - **Terrain composition:** grass 0-20% / soil 0-80% / rock 10-60% / sand 40-100% / snow 0-40%
+- **Barrier:** grade 2, 1.25 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -21,6 +22,7 @@
 - **Mixing compatibility:** Przewalski's Horse (DLC)
 - **Diet:** Hay / Herbivore Pellets / Fruit & Veg
 - **Enrichment sample:** Grazer/Barrel feeders, Ice Block
+- **Sex-ratio cap:** 1 males : 10 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

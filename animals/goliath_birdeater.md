@@ -7,8 +7,8 @@
 
 ## Housing & environment
 
-- **Group size:** 1-3
 - **Temperature / Humidity:** 23-29 degC / 50-84%
+- **Group size:** 1-3
 - **Diet:** Arthropods, worms, amphibians
 - **Enrichment sample:** Tropical plants, leaf litter
 

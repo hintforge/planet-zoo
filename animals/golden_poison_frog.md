@@ -7,8 +7,8 @@
 
 ## Housing & environment
 
-- **Group size:** 4-7
 - **Temperature / Humidity:** 26-31 degC / 80-90%
+- **Group size:** 4-7
 - **Diet:** Invertebrates
 - **Enrichment sample:** Tropical plants, misters
 

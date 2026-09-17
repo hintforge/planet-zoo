@@ -9,8 +9,11 @@
 
 - **Land min (individual / family):** 705 m² / 927 m²
 - **Water:** 0 m² (Aquatic not listed among biomes)
+- **Climb min:** 45 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** -15 to 31°C
 - **Biome(s):** Taiga, Temperate
+- **Terrain composition:** grass 20-50% / soil 10-60% / rock 0-80% / sand 0-10% / snow 0-100% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 3, 3 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -18,6 +21,7 @@
 - **Social type / group:** Group 1-2; social structure not detailed in source data
 - **Mixing compatibility:** None listed in source data
 - **Diet/enrichment:** Not otherwise detailed in source data
+- **Sex-ratio cap:** 1 males : 1 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

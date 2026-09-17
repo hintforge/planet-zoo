@@ -12,6 +12,8 @@
 - **Climb:** 40 m² base / +16 m² per extra, climbs
 - **Temperature range:** 13-42 degC
 - **Biome(s):** Temperate, Tropical
+- **Terrain composition:** grass 20-100% / soil 20-100% / rock 0-20% / sand 0-30% / snow 0-0% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 2, 3 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Shy -- stresses when guests get close or crowd in. Needs hiding cover, one-way glass, or a low-traffic placement. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -19,6 +21,7 @@
 - **Social type / group:** Up to 5 males / 5 females
 - **Mixing compatibility:** Confirmed compatible (Yes) with Asian Small-Clawed Otter (Wetlands Pack DLC), Malayan Tapir, Sun Bear
 - **Diet/enrichment:** Leaves/nuts/meat, fruit/veg, eggs
+- **Sex-ratio cap:** 5 males : 5 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

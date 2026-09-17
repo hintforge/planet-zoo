@@ -62,8 +62,15 @@ def parse_land(txt):
         areas = all_areas(v)
         if not areas:
             continue
-        base = areas[0]
-        per = areas[1] if len(areas) > 1 else None
+        # Labels starting "Land +per adult" state an INCREMENT, not a minimum --
+        # the corpus says so in the same line ("base value not given in source
+        # data"). Reading their first figure as a base put habitat minimums like
+        # 0.1 m2 for a Little Penguin into the shipped planner.
+        if lab.startswith(u"Land +per adult"):
+            base, per = None, areas[0]
+        else:
+            base = areas[0]
+            per = areas[1] if len(areas) > 1 else None
         fam = None
         if u"individual / family" in lab or u"individual / group" in lab:
             fam, per = per, None
@@ -301,6 +308,7 @@ for path in sorted(glob.glob(BASE + u"*.md")):
         u"dlc": dlc,
         u"confidence": conf,
         u"guest_confidence": guest,
+        u"barrier": field(txt, u"Barrier"),
         u"guest_note": guest_note,
         u"gap": gap,
         u"land": land,
@@ -342,7 +350,7 @@ print(u"species: %d" % tot)
 for k in [u"latin", u"continent", u"iucn", u"housing_raw", u"dlc", u"land",
           u"land_per_adult", u"water", u"climb", u"temp_min", u"social",
           u"group_max", u"males_max", u"biomes", u"mixing", u"diet",
-          u"terrain", u"gotcha", u"guest_confidence"]:
+          u"terrain", u"gotcha", u"guest_confidence", u"barrier"]:
     print(cov(k))
 print(u"gap-flagged: %d" % sum(1 for r in records if r[u"gap"]))
 print(u"exhibits: %d  habitats: %d" % (

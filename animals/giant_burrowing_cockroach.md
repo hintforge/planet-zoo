@@ -7,8 +7,8 @@
 
 ## Housing & environment
 
-- **Group size:** 1-6
 - **Temperature / Humidity:** 25-30 degC / 60-80%
+- **Group size:** 1-6
 - **Diet:** Dry crushed gum leaves
 - **Enrichment sample:** Hollow logs, tropical plants
 

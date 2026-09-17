@@ -7,8 +7,8 @@
 
 ## Housing & environment
 
-- **Group size:** 1-2
 - **Temperature / Humidity:** 26-31 degC / 50-60%
+- **Group size:** 1-2
 - **Diet:** Flowers, fruit, greens
 - **Enrichment sample:** Trunks, mossy rock, basking lamps
 

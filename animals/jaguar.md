@@ -8,11 +8,13 @@
 ## Housing & environment
 
 - **Land:** 705 m²
+- **Family total:** 965 m²
 - **Water:** 398 m²
 - **Climb:** 861 m²
-- **Family total:** 965 m²
 - **Temperature range:** 8-42 degC
 - **Biome(s):** Tropical, Grassland, Temperate, Aquatic
+- **Terrain composition:** grass 0-100% / soil 20-100% / rock 0-50% / sand 0-30% / snow 0-0% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 3, 3 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Shy -- stresses when guests get close or crowd in. Needs hiding cover, one-way glass, or a low-traffic placement. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -20,6 +22,7 @@
 - **Social type / group:** 1-2, solitary
 - **Mixing compatibility:** None
 - **Diet/enrichment:** not specified in source data
+- **Sex-ratio cap:** 1 males : 1 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

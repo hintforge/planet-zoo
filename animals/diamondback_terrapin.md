@@ -7,9 +7,9 @@
 
 ## Housing & environment
 
-- **Group size:** 1-8
 - **Temperature / Humidity:** 21-32 degC / 65-80%
 - **Biome(s):** Aquatic, Temperate
+- **Group size:** 1-8
 
 ## Social, diet, enrichment
 

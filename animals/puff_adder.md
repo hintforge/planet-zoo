@@ -7,8 +7,8 @@
 
 ## Housing & environment
 
-- **Group size:** 1-5
 - **Temperature / Humidity:** 23-31 degC / 60-80%
+- **Group size:** 1-5
 - **Diet:** Small mammals, amphibians, lizards, birds
 - **Enrichment sample:** Large rock, basking lamps
 

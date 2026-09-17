@@ -13,6 +13,7 @@
 - **Temperature range:** 8-40 degC
 - **Biome:** Grassland
 - **Terrain composition:** grass 10-100% / soil 10-40% / rock 0-40% / sand 0-30% / snow 0%
+- **Barrier:** grade 2, 1.25 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -21,6 +22,7 @@
 - **Mixing compatibility:** African Buffalo, Blue Wildebeest, Ostrich, Warthog, Plains Zebra, Giraffe, Sable, Springbok
 - **Diet:** Hay / Herbivore Pellets / Fruit & Veg
 - **Enrichment sample:** Grazer/Barrel feeders, Rubbing Pillar, Herb Scent Marker
+- **Sex-ratio cap:** 1 males : 31 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

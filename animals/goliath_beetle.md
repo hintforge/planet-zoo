@@ -7,8 +7,8 @@
 
 ## Housing & environment
 
-- **Group size:** 1-8
 - **Temperature / Humidity:** 23-36 degC / 40-60%
+- **Group size:** 1-8
 - **Diet:** Fruit, tree sap
 - **Enrichment sample:** Hollow logs, tropical plants
 

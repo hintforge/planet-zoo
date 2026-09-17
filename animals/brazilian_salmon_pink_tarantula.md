@@ -7,8 +7,8 @@
 
 ## Housing & environment
 
-- **Group size:** 1-6
 - **Temperature / Humidity:** 23-29 degC / 50-84%
+- **Group size:** 1-6
 - **Diet:** Large insects, amphibians, small reptiles
 - **Enrichment sample:** Tropical plants, leaf litter
 

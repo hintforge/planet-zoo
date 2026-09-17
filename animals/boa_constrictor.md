@@ -7,8 +7,8 @@
 
 ## Housing & environment
 
-- **Group size:** 1-2
 - **Temperature / Humidity:** 23-31 degC / 60-80%
+- **Group size:** 1-2
 - **Diet:** Small/medium rodents & birds
 - **Enrichment sample:** Tropical plants, basking lamps
 

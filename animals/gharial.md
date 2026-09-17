@@ -13,6 +13,7 @@
 - **Temperature range:** 14-42 degC
 - **Biome:** Aquatic, Tropical, Temperate
 - **Terrain composition:** grass 0-50% / soil 0-40% / rock 20-40% / sand 20-60% / snow 0%
+- **Barrier:** grade 2, 1 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -21,6 +22,7 @@
 - **Mixing compatibility:** None
 - **Diet:** Whole Fish / Crustaceans / Amphibians
 - **Enrichment sample:** Underwater Box Feeder, Mud Bath, Water Jet
+- **Sex-ratio cap:** 7 males : 7 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

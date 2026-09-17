@@ -9,8 +9,11 @@
 
 - **Land (individual / family):** ~425 m² / 618 m²
 - **Water:** 0 m²
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** 8-40 degC
 - **Biome(s):** Grassland
+- **Terrain composition:** grass 30-100% / soil 10-40% / rock 0-40% / sand 0-30% / snow 0-0% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 2, 1.25 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Shy -- stresses when guests get close or crowd in. Needs hiding cover, one-way glass, or a low-traffic placement. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -18,6 +21,7 @@
 - **Social type / group:** 3-36 (1M, up to 35F)
 - **Mixing compatibility:** African Buffalo, Black Wildebeest, Blue Wildebeest, Common Ostrich, Warthog, Plains Zebra, Reticulated Giraffe, Sable Antelope, Southern White Rhinoceros, Springbok
 - **Diet/enrichment:** not specified in source data
+- **Sex-ratio cap:** 1 males : 35 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

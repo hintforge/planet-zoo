@@ -8,8 +8,12 @@
 ## Housing & environment
 
 - **Land (individual / family):** 920 m² / 1,150 m²
+- **Water min:** 0 m² `[planetzoohelper 2026-09-17]`
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** -8 to 43°C
 - **Biome(s):** Grassland, Desert, Temperate, Taiga, Tropical
+- **Terrain composition:** grass 0-50% / soil 0-40% / rock 0-50% / sand 0-60% / snow 0-100% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 2, 3 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -18,6 +22,7 @@
 - **Mixing compatibility:** No -- aggressive tag
 - **Diet:** Processed Meat, Whole Carcass, Whole Carcass+Supplements
 - **Activity pattern:** Crepuscular
+- **Sex-ratio cap:** 11 males : 11 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

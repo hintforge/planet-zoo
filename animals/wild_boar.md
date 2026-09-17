@@ -7,10 +7,15 @@
 
 ## Housing & environment
 
+- **Land min / +per adult:** 310 m² / +15 m² `[planetzoohelper 2026-09-17]`
 - **Land +per adult (per-CC scaling):** +1.30 m²/CC
+- **Water min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Water:** Not specified in source data
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** -4 to 43 degC
 - **Biome(s):** Taiga, Temperate, Grassland, Tropical, Desert -- the broadest biome tolerance found in this pack
+- **Terrain composition:** grass 0-80% / soil 30-100% / rock 0-30% / sand 0-20% / snow 0-100% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 3, 1.25 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -18,6 +23,7 @@
 - **Social type / group:** 1 male / 15 females max
 - **Mixing compatibility:** Not listed in source data
 - **Diet/enrichment:** Not itemized in source data this pass
+- **Sex-ratio cap:** 1 males : 29 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

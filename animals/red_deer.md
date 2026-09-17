@@ -10,17 +10,21 @@
 **Resolved at P3** (2026-08-22) -- the P1 contradiction is superseded. Current Fandom pages and the senginous/Villanelle "Details" tab agree exactly for patch-current (1.20.2) data:
 
 - **Land:** 360 m² + 45 m²/additional
-- **Terrain:** 60/20/10/10 grass/sand/rock/snow
+- **Water min:** 0 m² `[planetzoohelper 2026-09-17]`
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** -10 to 38 degC
 - **Biome:** Temperate grassland/woodland, Taiga
-- **Fence grade:** 2 (>1.5m)
+- **Terrain:** 60/20/10/10 grass/sand/rock/snow
+- **Barrier:** grade 2, 1.5 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
+- **Fence grade:** 2 (>1.5m)
 
 ## Social, diet, enrichment
 
 - **Social type / group:** Matrilineal + bachelor herds, 3-9
 - **Mixing compatibility:** European Fallow Deer*, Highland Cattle*, Mute Swan*, Tamworth Pig*, Wild Boar*, Wisent* (*all DLC)
 - **Diet/enrichment:** Grazing Ball Feeder / Scarecrow Feeder
+- **Sex-ratio cap:** 1 males : 8 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

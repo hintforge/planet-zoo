@@ -13,6 +13,7 @@
 - **Temperature range:** 8-40 degC
 - **Biome:** Aquatic, Grassland, Tropical, Temperate
 - **Terrain composition:** grass 10-60% / soil 20-40% / rock 0-40% / sand 0-20% / snow 0%
+- **Barrier:** grade 4, 2 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -21,6 +22,7 @@
 - **Mixing compatibility:** Blackbuck, Malayan Tapir, Nilgai, Proboscis Monkey (all DLC)
 - **Diet:** Hay / Kibble / Fruit & Veg
 - **Enrichment sample:** Barrel/Roller feeders, Mud Bath, Waterfall
+- **Sex-ratio cap:** 1 males : 29 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

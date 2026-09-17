@@ -9,8 +9,11 @@
 
 - **Land:** 504 m²
 - **Water:** 696 m²
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** 10-42 degC
 - **Biome(s):** Aquatic, Tropical, Grassland
+- **Terrain composition:** grass 10-30% / soil 0-60% / rock 0-10% / sand 30-60% / snow 0-0% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 2, 1.8 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -18,6 +21,7 @@
 - **Social type / group:** 2-15, family group
 - **Mixing compatibility:** None listed
 - **Diet/enrichment:** not specified beyond the pack-standard Underwater Fish Feeder mechanic
+- **Sex-ratio cap:** 9 males : 9 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

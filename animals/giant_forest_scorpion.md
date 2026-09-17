@@ -7,8 +7,8 @@
 
 ## Housing & environment
 
-- **Group size:** 1-6
 - **Temperature / Humidity:** 21-30 degC / 65-85%
+- **Group size:** 1-6
 - **Diet:** Insects, other invertebrates
 - **Enrichment sample:** Trunks, leaf litter
 

@@ -7,8 +7,8 @@
 
 ## Housing & environment
 
-- **Group size:** 1-6
 - **Temperature / Humidity:** 26-31 degC / **80-90%** (high-humidity band)
+- **Group size:** 1-6
 - **Diet:** Invertebrates
 - **Enrichment sample:** Tropical plants, misters, leaf litter
 

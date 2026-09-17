@@ -13,6 +13,7 @@
 - **Temperature range:** 8-42 degC
 - **Biome:** Tropical
 - **Terrain composition:** grass 10-30% / soil 20-90% / rock 0-50% / sand 0-30% / snow 0%
+- **Barrier:** grade 2, 1.25 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Shy -- stresses when guests get close or crowd in. Walkabout-eligible but a poor walkthrough choice: keep the path off the main route, or skip the guest gate and use hiding cover plus one-way glass instead. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -21,6 +22,7 @@
 - **Mixing compatibility:** Red River Hog (DLC)
 - **Diet:** Hay / Herbivore Pellets / Ferns & Salt Licks
 - **Enrichment sample:** Hanging Barrel Feeder, Plant Screen
+- **Sex-ratio cap:** 1 males : 1 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

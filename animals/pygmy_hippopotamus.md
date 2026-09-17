@@ -9,8 +9,11 @@
 
 - **Land (individual / family):** ~540 m² / 660 m² -- source notes an equal land/water split, i.e. water area matches the land figures above
 - **Water:** equal to land (per source note, not separately itemized)
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** 12-42 degC
 - **Biome(s):** Aquatic, Tropical
+- **Terrain composition:** grass 0-50% / soil 20-60% / rock 20-40% / sand 0-40% / snow 0-0% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 3, 1 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -18,6 +21,7 @@
 - **Social type / group:** 2-4 (1M, up to 3F)
 - **Mixing compatibility:** Red River Hog
 - **Diet/enrichment:** not specified in source data
+- **Sex-ratio cap:** 1 males : 3 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 
