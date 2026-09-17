@@ -694,12 +694,21 @@ function planWarnings(row){
   var s=speciesBySlug(row.slug), out=[], n=row.m+row.f;
   if(!s) return out;
   if(n===0) out.push(["info","No animals entered for this habitat yet."]);
-  if(s.males_max!=null && s.females_max!=null && row.m>0){
-    var allowed = Math.floor(row.f * (s.males_max/s.females_max));
-    if(row.f===0) allowed = s.males_max;
-    if(row.m>Math.max(allowed, row.f===0?s.males_max:allowed))
-      out.push(["bad", s.name+": "+row.m+" males exceeds the cap of "+Math.max(allowed,0)+
-        " for "+row.f+" females ("+s.males_max+":"+s.females_max+" ratio). Expect sex-based fighting."]);
+  if(s.males_max!=null && s.females_max!=null){
+    /* The cap scales with the female count, but a species whose ratio permits any
+       male at all permits ONE alongside a mate -- a 1:29 pride is one male with up
+       to 29 females, not zero males below 29. Scaling down past 1 would flag every
+       ordinary pride. A group with no females is a bachelor group and takes the
+       flat male cap instead. */
+    var allowed = (row.f===0)
+      ? s.males_max
+      : Math.min(s.males_max, Math.max(1, Math.floor(row.f * (s.males_max/s.females_max))));
+    if(row.m>allowed)
+      out.push(["bad", s.name+": "+row.m+" males exceeds the "+allowed+" permitted"+
+        (row.f===0? " in a bachelor group" : " alongside "+row.f+" females")+
+        " ("+s.males_max+":"+s.females_max+" cap). Expect sex-based fighting."]);
+    if(row.f>s.females_max)
+      out.push(["bad", s.name+": "+row.f+" females exceeds the documented cap of "+s.females_max+"."]);
   }
   if(s.group_min!=null && n>0 && n<s.group_min)
     out.push(["warn", s.name+": "+n+" is below the social group minimum of "+s.group_min+"."]);

@@ -18,4 +18,19 @@ Then just ask — *"what habitat does a snow leopard need," "how do I breed red 
 
 ## What's inside
 
-A structured Markdown corpus — core mechanics (welfare, conservation, economics, breeding, staff, guests), a 210-species bestiary covering habitat requirements and welfare needs across the base game and 21 DLC packs, career scenarios, controls, settings, and achievements. Interactive tools (a habitat planner is the natural fit) aren't built yet. The companion reads and writes only the files you control.
+A structured Markdown corpus — core mechanics (welfare, conservation, economics, breeding, staff, guests), a 210-species bestiary covering habitat requirements and welfare needs across the base game and 21 DLC packs, career scenarios, controls, settings, and achievements. The companion reads and writes only the files you control.
+
+## Zoo Planner
+
+![The Zoo Planner's four tabs: the species roster, the habitat plan builder, the budget sheet, and the reference tables](assets/readme-thumbnail.png)
+
+A self-contained planner built from this corpus — [`artifacts/zoo_planner.html`](artifacts/zoo_planner.html). Download it, open it in any browser, keep it beside the game. Nothing is installed and nothing leaves your machine.
+
+- **Roster** — all 210 species in one sortable table: land, water and climbing area, temperature band, group size, sex-ratio cap, biome, diet, mixing, conservation status and pack. Filter by any of them.
+- **Plan** — add species with the sex split you intend to keep; it totals the area the game will demand and flags sex-ratio breaches and group sizes outside the documented range.
+- **Budget** — the four game economies kept apart, your cash and finance-report figures in, what the plan costs out.
+- **Reference** — sex-ratio caps, a worked shop-pricing example, an opening playbook, and the career medal objectives.
+
+**It does not predict your income.** Planet Zoo publishes no ticket-price or guest-spend formula and nobody has reverse-engineered one, so the budget tab asks for the figures your own finance report already shows rather than dressing a guess up as a projection. Where the corpus has no figure the cell reads *not recorded*, never zero — habitat sizes exist for 142 of the 210 species, and the tool tells you which are missing instead of quietly leaving them out.
+
+Rebuild it after a corpus change with `python build.py` in [`artifacts/`](artifacts/).
