@@ -9,8 +9,11 @@
 
 - **Land (individual / family):** 550 m² / 650 m²
 - **Water:** 0 m²
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** -5 to 40 degC
 - **Biome(s):** Grassland, Taiga, Temperate
+- **Terrain composition:** grass 20-100% / soil 0-50% / rock 0-30% / sand 0-20% / snow 0-100% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 4, 2 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -18,6 +21,7 @@
 - **Social type / group:** 2-30, mixed herd
 - **Mixing compatibility:** Alpaca, Capybara, Collared Peccary, Greater Rhea
 - **Diet/enrichment:** not specified in source data
+- **Sex-ratio cap:** 30 males : 30 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

@@ -7,8 +7,8 @@
 
 ## Housing & environment
 
-- **Group size:** 1-2
 - **Temperature / Humidity:** 26-32 degC / 74-86%
+- **Group size:** 1-2
 - **Diet:** Small invertebrates, amphibians
 - **Enrichment sample:** Hollow logs, misters
 

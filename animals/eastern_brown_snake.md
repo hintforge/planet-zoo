@@ -7,8 +7,8 @@
 
 ## Housing & environment
 
-- **Group size:** 1-5
 - **Temperature / Humidity:** 23-29 degC / 60-85%
+- **Group size:** 1-5
 - **Diet:** Rodents, lizards, amphibians
 - **Enrichment sample:** Camouflage ground, fallen tree
 

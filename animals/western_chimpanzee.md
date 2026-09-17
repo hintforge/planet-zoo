@@ -13,6 +13,7 @@
 - **Temperature range:** 8-42 degC
 - **Biome:** Tropical
 - **Terrain composition:** grass 10-40% / soil 10-90% / rock 0-50% / sand 0-20% / snow 0%
+- **Barrier:** grade 3, 5 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -21,6 +22,7 @@
 - **Mixing compatibility:** Red River Hog (DLC)
 - **Diet:** Monkey Chow / Fruit & Veg / Processed Meat & Live Ants
 - **Enrichment sample:** Termite Mound, Tool Puzzle Feeder, Climbing Frame
+- **Sex-ratio cap:** 10 males : 10 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

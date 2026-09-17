@@ -12,6 +12,8 @@
 - **Climb:** 56 m² base / +28 m² per extra, climbs
 - **Temperature range:** 6-42 degC
 - **Biome(s):** Grassland, Temperate, Tropical
+- **Terrain composition:** grass 30-100% / soil 15-60% / rock 0-35% / sand 0-20% / snow 0-0% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 4, 3 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -19,6 +21,7 @@
 - **Social type / group:** 1 male / 1 female max, solitary
 - **Mixing compatibility:** **[Contradicted across sources]** the numeric mixing tool flags Sun Bear "No" for cross-species mixing, but individual species pages list it as compatible with Binturong -- most likely a one-directional compatibility flag (A->B recorded but not B->A) rather than a genuine conflict.
 - **Diet/enrichment:** Leaves/nuts/meat, fruit & veg, insects
+- **Sex-ratio cap:** 1 males : 1 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

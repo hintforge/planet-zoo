@@ -8,9 +8,12 @@
 ## Housing & environment
 
 - **Land:** 230 m² min +5 m²/additional
-- **Terrain:** 50% grass / 30% sand / 20% rock
+- **Water min:** 0 m² `[planetzoohelper 2026-09-17]`
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** 15-30 degC (ideal 22)
 - **Biome:** Tropical, grassland
+- **Terrain:** 50% grass / 30% sand / 20% rock
+- **Barrier:** grade 1, 0.5 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. Workable walkthrough if a single guest gate caps how many get inside at once. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -18,6 +21,7 @@
 - **Social type / group:** Solitary, 1-4
 - **Mixing compatibility:** Capybara* (DLC)
 - **Diet/enrichment:** Fruit Spike Tree / Rubber Duck
+- **Sex-ratio cap:** 1 males : 3 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

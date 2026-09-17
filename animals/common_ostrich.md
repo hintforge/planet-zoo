@@ -13,6 +13,7 @@
 - **Temperature range:** 8-40 degC
 - **Biome:** Desert, Grassland
 - **Terrain composition:** grass 20-70% / soil 10-40% / rock 0-40% / sand 0-30% / snow 0%
+- **Barrier:** grade 2, 1.25 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. Workable walkthrough if a single guest gate caps how many get inside at once. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -21,6 +22,7 @@
 - **Mixing compatibility:** 14 partner species -- the widest mixing list of any species in the game (Addax, African Buffalo, both Wildebeest, Warthog, Nile Lechwe, Plains Zebra, Giraffe, Sable, Scimitar Oryx, Somali Wild Ass, S. White Rhino, Springbok, Thomson's Gazelle)
 - **Diet:** Bird Pellets / Seeds / Locusts & Crickets
 - **Enrichment sample:** Forage Box, Slow Feeder, Herb Scent Marker, Mirror Mobile
+- **Sex-ratio cap:** 1 males : 7 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

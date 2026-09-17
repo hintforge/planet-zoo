@@ -13,6 +13,7 @@
 - **Temperature range:** 8-40 degC
 - **Biome:** Desert, Grassland
 - **Terrain composition:** grass 30-80% / soil 10-40% / rock 0-40% / sand 0-30% / snow 0%
+- **Barrier:** grade 2, 1.25 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -21,6 +22,7 @@
 - **Mixing compatibility:** None
 - **Diet:** Processed Meat / Whole Carcass / Whole Carcass+Supplements
 - **Enrichment sample:** Rotation Line, Bamboo, Piñata feeders, Blood Scent Marker
+- **Sex-ratio cap:** 27 males : 9 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

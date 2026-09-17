@@ -13,6 +13,7 @@
 - **Temperature range:** 8-40 degC
 - **Biome:** Grassland, Tropical
 - **Terrain composition:** grass 0-60% / soil 10-40% / rock 0-40% / sand 0-45% / snow 0%
+- **Barrier:** grade 3, 2 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -21,6 +22,7 @@
 - **Mixing compatibility:** African Buffalo, both Wildebeest, Ostrich, Warthog, Dromedary Camel (DLC), Nile Lechwe, Plains Zebra, Sable, Scimitar Oryx, S. White Rhino, Springbok, Thomson's Gazelle
 - **Diet:** Leaves & Branches / Fruit / Acacia Branches
 - **Enrichment sample:** Suspended High Grazer Feeder (only feeder type), Rubbing Pillar, Sprinkler
+- **Sex-ratio cap:** 4 males : 8 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

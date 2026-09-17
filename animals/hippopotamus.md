@@ -13,6 +13,7 @@
 - **Temperature range:** 10-38 degC
 - **Biome:** Aquatic, Grassland
 - **Terrain composition:** grass 0-50% / soil 20-60% / rock 20-40% / sand 0-40% / snow 0%
+- **Barrier:** grade 4, 2 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -21,6 +22,7 @@
 - **Mixing compatibility:** Red River Hog (DLC)
 - **Diet:** Hay / Herbivore Pellets / Aquatic Plants & Melons
 - **Enrichment sample:** Grazer/Melon feeders, Mud Bath, Waterfall
+- **Sex-ratio cap:** 1 males : 29 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

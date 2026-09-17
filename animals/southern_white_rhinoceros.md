@@ -9,8 +9,11 @@
 
 - **Land min / +per adult:** 1,275 m² base / +525 m² per extra
 - **Water:** 0 m²
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** 13-38 degC
 - **Biome(s):** Grassland
+- **Terrain composition:** grass 0-60% / soil 25-80% / rock 0-40% / sand 0-20% / snow 0-0% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 4, 2 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -18,6 +21,7 @@
 - **Social type / group:** 1 male / 4 females max
 - **Mixing compatibility:** None recorded this pass
 - **Diet/enrichment:** Not specified in source data this pass
+- **Sex-ratio cap:** 1 males : 4 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

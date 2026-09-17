@@ -12,6 +12,8 @@
 - **Climb:** 81 m² base / +44 m² per extra, climbs
 - **Temperature range:** 6-42 degC
 - **Biome(s):** Temperate, Tropical
+- **Terrain composition:** grass 30-70% / soil 20-100% / rock 0-40% / sand 0-20% / snow 0-0% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 2, 3 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Shy -- stresses when guests get close or crowd in. Needs hiding cover, one-way glass, or a low-traffic placement. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -19,6 +21,7 @@
 - **Social type / group:** 1 male / 1 female, solitary
 - **Mixing compatibility:** None recorded this pass
 - **Diet/enrichment:** Processed meat, whole carcass +/- bones
+- **Sex-ratio cap:** 1 males : 1 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

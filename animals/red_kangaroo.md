@@ -9,8 +9,11 @@
 
 - **Land (individual / family):** 330 m² / 450 m²
 - **Water:** 0 m²
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** 8-44 degC
 - **Biome(s):** Desert, Grassland
+- **Terrain composition:** grass 0-100% / soil 0-100% / rock 0-30% / sand 0-100% / snow 0-0% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 3, 3 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -18,6 +21,7 @@
 - **Social type / group:** 2-10 (1M, up to 9F)
 - **Mixing compatibility:** Koala, Emu (Grasslands Pack DLC), Red-Necked Wallaby (Grasslands Pack DLC)
 - **Diet/enrichment:** not specified in source data
+- **Sex-ratio cap:** 1 males : 9 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

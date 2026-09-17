@@ -7,8 +7,8 @@
 
 ## Housing & environment
 
-- **Group size:** 1-2
 - **Temperature / Humidity:** 23-29 degC / 50-84%
+- **Group size:** 1-2
 - **Diet:** Other arthropods, small mammals/birds/reptiles/amphibians
 - **Enrichment sample:** Hollow logs, rock piles
 

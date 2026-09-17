@@ -9,8 +9,11 @@
 
 - **Land min / +per adult:** 705 m² base / +111 m² per extra
 - **Water:** 0 m²
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** -7 to 43 degC
 - **Biome(s):** Desert, Grassland, Taiga, Temperate, Tropical
+- **Terrain composition:** grass 20-100% / soil 15-100% / rock 0-50% / sand 0-40% / snow 0-100% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 3, 3 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Shy -- stresses when guests get close or crowd in. Needs hiding cover, one-way glass, or a low-traffic placement. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -18,6 +21,7 @@
 - **Social type / group:** 1 male / 1 female, solitary
 - **Mixing compatibility:** None recorded this pass
 - **Diet/enrichment:** Not specified in source data this pass
+- **Sex-ratio cap:** 1 males : 1 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

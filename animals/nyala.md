@@ -13,6 +13,7 @@
 - **Temperature range:** 8-42 degC
 - **Biome:** Grassland, Tropical
 - **Terrain composition:** grass 10-100% / soil 20-40% / rock 0-40% / sand 0-20% / snow 0%
+- **Barrier:** grade 2, 1.25 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Shy -- stresses when guests get close or crowd in. Needs hiding cover, one-way glass, or a low-traffic placement. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -21,6 +22,7 @@
 - **Mixing compatibility:** Southern White Rhinoceros (DLC)
 - **Diet:** Hay / Herbivore Pellets / Fruit & Veg
 - **Enrichment sample:** Grazer/Barrel feeders, Plant Screen
+- **Sex-ratio cap:** 1 males : 4 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

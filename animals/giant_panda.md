@@ -13,6 +13,7 @@
 - **Temperature range:** 2-29 degC
 - **Biome:** Temperate, Taiga
 - **Terrain composition:** grass 20-60% / soil 20-60% / rock 0-40% / sand 0-30% / snow 0-30%
+- **Barrier:** grade 4, 2 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -21,6 +22,7 @@
 - **Mixing compatibility:** None
 - **Diet:** Bamboo / Small Fruits / Fruit & Veg
 - **Enrichment sample:** Tree Scatter feeders, Wind Chimes, Firehose Ball
+- **Sex-ratio cap:** 10 males : 10 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

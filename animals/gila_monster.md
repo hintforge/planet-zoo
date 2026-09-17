@@ -7,8 +7,8 @@
 
 ## Housing & environment
 
-- **Group size:** 1-4
 - **Temperature / Humidity:** **35-42 degC** (hottest temperature band of any base exhibit species) / 15-25%
+- **Group size:** 1-4
 - **Diet:** Eggs, birds, mammals, insects, lizards, amphibians, carrion
 - **Enrichment sample:** Hiding place, basking lamps
 

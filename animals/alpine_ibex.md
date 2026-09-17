@@ -8,7 +8,13 @@
 ## Housing & environment
 
 [Hypothesis - unverified, numeric fields not sourced this pass]
+- **Land min / +per adult:** 390 m² / +60 m² `[planetzoohelper 2026-09-17]`
+- **Water min:** 0 m² `[planetzoohelper 2026-09-17]`
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
+- **Temperature range:** -7-28 degC `[planetzoohelper 2026-09-17]`
 - **Biome(s):** Taiga (used as a cold-mountain proxy in-game), likely also Grassland
+- **Terrain composition:** grass 10-100% / soil 0-80% / rock 15-100% / sand 0-10% / snow 0-100% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 2, 1.25 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -16,6 +22,7 @@
 - **Social type / group:** Seasonal bachelor herds of 10-20 females / 6-8 males, sexes merge only for mating
 - **Mixing compatibility:** Explicitly stated to not benefit from sharing space with other species
 - **Diet/enrichment:** Goat Climbing Mountain enrichment item
+- **Sex-ratio cap:** 1 males : 19 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

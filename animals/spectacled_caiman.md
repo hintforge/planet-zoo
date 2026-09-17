@@ -8,9 +8,13 @@
 ## Housing & environment
 
 - **Land min (individual / family):** 460 m² / 524 m² `[Single source - verify]`
+- **Water min:** 220 m² `[planetzoohelper 2026-09-17]`
 - **Water:** not specified separately in source data (Aquatic listed among biomes -- water component required) `[Single source - verify]`
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** 13-42°C `[Single source - verify]`
 - **Biome(s):** Aquatic, Tropical, Grassland
+- **Terrain composition:** grass 0-70% / soil 0-40% / rock 20-50% / sand 0-60% / snow 0-0% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 2, 1 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -18,6 +22,7 @@
 - **Social type / group:** Group 1-6. Sleeping pattern: crepuscular. Interaction tag: friendly/non-aggressive per data sheet `[Single source - verify]`
 - **Mixing compatibility:** None listed in source data
 - **Diet/enrichment:** Not otherwise detailed in source data beyond the pack's general aquatic enrichment set (Underwater Buoy, Small Underwater Feeder, Natural Water Jet)
+- **Sex-ratio cap:** 1 males : 5 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

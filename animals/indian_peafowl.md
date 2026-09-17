@@ -13,6 +13,7 @@
 - **Temperature range:** 3-42 degC
 - **Biome:** Grassland, Tropical, Temperate
 - **Terrain composition:** grass 20-60% / soil 0-60% / rock 0-40% / sand 0-30% / snow 0%
+- **Barrier:** grade 1, 1.25 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. The safest walkthrough choice. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment

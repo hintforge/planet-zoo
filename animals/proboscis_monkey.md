@@ -12,6 +12,8 @@
 - **Climb:** 30 m² base / +15 m² per extra, climbs
 - **Temperature range:** 17-42 degC
 - **Biome(s):** Aquatic, Tropical
+- **Terrain composition:** grass 0-100% / soil 10-60% / rock 0-30% / sand 0-30% / snow 0-0% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 3, 4.5 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -19,6 +21,7 @@
 - **Social type / group:** Up to 9 males / 18 females, matrilineal
 - **Mixing compatibility:** **[Contradicted across sources]** the numeric mixing tool flags Proboscis Monkey "No" for cross-species mixing, but individual species pages list it as compatible with Binturong -- most likely a one-directional compatibility flag (A->B recorded but not B->A) rather than a genuine conflict.
 - **Diet/enrichment:** Not specified in source data this pass
+- **Sex-ratio cap:** 9 males : 18 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

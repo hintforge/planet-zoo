@@ -7,8 +7,8 @@
 
 ## Housing & environment
 
-- **Group size:** 1-2
 - **Temperature / Humidity:** 24-30 degC / 40-60%
+- **Group size:** 1-2
 - **Diet:** Small mammals
 - **Enrichment sample:** Hiding place, basking lamps
 

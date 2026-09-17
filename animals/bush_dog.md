@@ -8,8 +8,12 @@
 ## Housing & environment
 
 - **Land (individual / family):** 575 m² / 725 m²
+- **Water min:** 75 m² `[planetzoohelper 2026-09-17]`
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** 13-42°C
 - **Biome(s):** Tropical, Grassland, Aquatic
+- **Terrain composition:** grass 20-100% / soil 0-20% / rock 0-10% / sand 0-10% / snow 0-0% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 2, 1.25 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -18,6 +22,7 @@
 - **Mixing compatibility:** No -- strong swimmer/burrower
 - **Diet:** Processed Meat, Mealworms, Eggs
 - **Activity pattern:** Diurnal
+- **Sex-ratio cap:** 11 males : 11 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

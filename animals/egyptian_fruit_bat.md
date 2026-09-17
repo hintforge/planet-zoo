@@ -7,10 +7,10 @@
 
 ## Housing & environment
 
-- **Group size / cap:** cap approximately 35, typical range 21-32
 - **Water:** n/a -- Walkthrough Exhibit, no land/water metric given in source data
 - **Temperature range:** not listed in source data
 - **Biome(s):** Grassland, Desert, Tropical
+- **Group size / cap:** cap approximately 35, typical range 21-32
 
 ## Social, diet, enrichment
 

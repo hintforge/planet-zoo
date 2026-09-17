@@ -7,10 +7,15 @@
 
 ## Housing & environment
 
+- **Land min / +per adult:** 390 m² / +25 m² `[planetzoohelper 2026-09-17]`
 - **Land base +per adult (per-CC scaling):** 415 m² base + 1.90 m²/CC
+- **Water min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Water:** Not specified in source data
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** -7 to 43 degC
 - **Biome(s):** Temperate, Grassland, Desert
+- **Terrain composition:** grass 10-100% / soil 0-60% / rock 10-50% / sand 0-10% / snow 0-100% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 2, 1.25 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -18,6 +23,7 @@
 - **Social type / group:** 2-30, 1 male / 29 females
 - **Mixing compatibility:** Not listed in source data
 - **Diet/enrichment:** Domesticated-style diet pattern (hay/pellets/fruit-veg), not itemized per-species this pass **[Single source, automated-parse - verify - class:community-wiki for numeric fields; qualitative facts corroborated by official Frontier forum post]**
+- **Sex-ratio cap:** 1 males : 29 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

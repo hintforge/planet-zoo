@@ -7,10 +7,10 @@
 
 ## Housing & environment
 
-- **Group size / cap:** 3-6 group, cap approximately 90
 - **Water:** n/a -- Walkthrough Exhibit, no land/water metric given in source data
 - **Temperature range:** 21-35°C
 - **Biome(s):** Grassland, Tropical
+- **Group size / cap:** 3-6 group, cap approximately 90
 
 ## Social, diet, enrichment
 

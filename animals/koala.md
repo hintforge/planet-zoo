@@ -8,11 +8,13 @@
 ## Housing & environment
 
 - **Land:** 180 m²
-- **Climb:** 215 m²
 - **Family total:** 300 m²
 - **Water:** 0 m²
+- **Climb:** 215 m²
 - **Temperature range:** 8-42 degC
 - **Biome(s):** Tropical, Temperate
+- **Terrain composition:** grass 0-100% / soil 0-100% / rock 0-30% / sand 0-50% / snow 0-0% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 1, 1 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -20,6 +22,7 @@
 - **Social type / group:** 1-4 (1M, up to 3F)
 - **Mixing compatibility:** Red Kangaroo
 - **Diet/enrichment:** Eucalyptus branches/leaves and shoots across all diet tiers -- a specialist, no-substitution diet
+- **Sex-ratio cap:** 1 males : 3 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

@@ -8,11 +8,13 @@
 ## Housing & environment
 
 - **Land:** 210 m²
-- **Climb:** 215 m²
 - **Family total:** 298 m²
 - **Water:** 0 m²
+- **Climb:** 215 m²
 - **Temperature range:** 12-42 degC
 - **Biome(s):** Tropical, Temperate
+- **Terrain composition:** grass 0-70% / soil 20-100% / rock 0-10% / sand 0-10% / snow 0-0% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 1, 1.25 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -20,6 +22,7 @@
 - **Social type / group:** 8-40, troop
 - **Mixing compatibility:** Baird's Tapir, Capybara, Collared Peccary, Giant Anteater
 - **Diet/enrichment:** not specified in source data
+- **Sex-ratio cap:** 13 males : 39 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

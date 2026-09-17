@@ -13,6 +13,7 @@
 - **Temperature range:** 13-40 degC
 - **Biome:** Aquatic, Grassland, Temperate
 - **Terrain composition:** grass 0-60% / soil 20-40% / rock 0-40% / sand 0-20% / snow 0%
+- **Barrier:** grade 4, 2 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -21,6 +22,7 @@
 - **Mixing compatibility:** Asian Small-Clawed Otter, Blackbuck, Nilgai, Wild Water Buffalo (all DLC)
 - **Diet:** Hay / Root Vegetables / High Fiber Biscuits & Salt Licks
 - **Enrichment sample:** Grazer/Melon feeders, Mud Bath, Skittle
+- **Sex-ratio cap:** 1 males : 1 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

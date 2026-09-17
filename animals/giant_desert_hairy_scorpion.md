@@ -7,8 +7,8 @@
 
 ## Housing & environment
 
-- **Group size:** 1-6
 - **Temperature / Humidity:** 25-37 degC / **20-35%** (only exhibit species with a genuinely arid/low-humidity band)
+- **Group size:** 1-6
 - **Diet:** Large insects, spiders, small vertebrates
 - **Enrichment sample:** Large rock, hiding place
 

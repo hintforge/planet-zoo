@@ -13,6 +13,7 @@
 - **Temperature range:** 14-42 degC
 - **Biome:** Tropical
 - **Terrain composition:** grass 10-70% / soil 10-90% / rock 0-20% / sand 0-20% / snow 0%
+- **Barrier:** grade 1, 1.25 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. Workable walkthrough if a single guest gate caps how many get inside at once. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -21,6 +22,7 @@
 - **Mixing compatibility:** Coquerel's Sifaka (DLC), Red Ruffed Lemur, Ring Tailed Lemur
 - **Diet:** Monkey Chow / Leaves & Shoots / Fruit
 - **Enrichment sample:** Frozen Fruit Block, Forage Box, Climbing Frame, Mirror Mobile
+- **Sex-ratio cap:** 1 males : 15 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

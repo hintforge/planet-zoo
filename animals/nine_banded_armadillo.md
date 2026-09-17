@@ -9,8 +9,11 @@
 
 - **Land min (individual / family):** 182 m² / 214 m²
 - **Water:** 0 m² (Aquatic not listed among biomes)
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** -5 to 43°C
 - **Biome(s):** Grassland, Desert, Tropical, Temperate
+- **Terrain composition:** grass 10-40% / soil 0-60% / rock 0-30% / sand 10-60% / snow 0-0% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 1, 1 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Shy -- stresses when guests get close or crowd in. Walkabout-eligible but a poor walkthrough choice: keep the path off the main route, or skip the guest gate and use hiding cover plus one-way glass instead. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -18,6 +21,7 @@
 - **Social type / group:** Group 1-2; social structure not detailed in source data
 - **Mixing compatibility:** None listed in source data
 - **Diet/enrichment:** Not otherwise detailed in source data
+- **Sex-ratio cap:** 1 males : 1 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

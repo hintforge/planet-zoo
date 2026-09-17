@@ -9,8 +9,11 @@
 
 - **Land min / +per adult:** 180 m² base / +12 m² per extra
 - **Water:** 0 m²
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** 13-43 degC
 - **Biome(s):** Desert, Grassland
+- **Terrain composition:** grass 15-100% / soil 0-85% / rock 0-20% / sand 0-35% / snow 0-0% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 2, 1.2 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. Workable walkthrough if a single guest gate caps how many get inside at once. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -18,6 +21,7 @@
 - **Social type / group:** 1 male / 11 females max, coterie
 - **Mixing compatibility:** Black-Tailed Prairie Dog <-> American Bison (base-game), Bighorn Sheep (Americas Pack DLC), Striped Skunk
 - **Diet/enrichment:** Not specified in source data this pass
+- **Sex-ratio cap:** 1 males : 11 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

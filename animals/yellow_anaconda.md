@@ -7,8 +7,8 @@
 
 ## Housing & environment
 
-- **Group size:** 1-2
 - **Temperature / Humidity:** 25-30 degC / 80-90%
+- **Group size:** 1-2
 - **Diet:** Birds, mammals, amphibians, fish, eggs
 - **Enrichment sample:** Tropical plants, basking lamps
 

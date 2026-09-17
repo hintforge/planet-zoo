@@ -9,8 +9,11 @@
 
 - **Land min / +per adult:** 180 m² base / +14 m² per extra
 - **Water:** 0 m²
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** 13-43 degC
 - **Biome(s):** Desert, Grassland
+- **Terrain composition:** grass 0-40% / soil 25-100% / rock 0-30% / sand 20-100% / snow 0-0% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 2, 1.2 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -18,6 +21,7 @@
 - **Social type / group:** Up to 20 males / 20 females, eusocial
 - **Mixing compatibility:** Meerkat <-> Aardvark (base-game species)
 - **Diet/enrichment:** Not specified in source data this pass
+- **Sex-ratio cap:** 20 males : 20 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

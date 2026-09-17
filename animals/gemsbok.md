@@ -13,6 +13,7 @@
 - **Temperature range:** 8-43 degC
 - **Biome:** Desert
 - **Terrain composition:** grass 0-100% / soil 0-20% / rock 0-60% / sand 40-100% / snow 0%
+- **Barrier:** grade 2, 1.25 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Shy -- stresses when guests get close or crowd in. Needs hiding cover, one-way glass, or a low-traffic placement. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -21,6 +22,7 @@
 - **Mixing compatibility:** None
 - **Diet:** Hay / Herbivore Pellets / Melons & Cucumbers
 - **Enrichment sample:** Grazer/Barrel feeders, Herb Scent Marker
+- **Sex-ratio cap:** 1 males : 9 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

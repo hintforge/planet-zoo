@@ -8,9 +8,13 @@
 ## Housing & environment
 
 - **Land min (individual / family):** 435 m² / 645 m² `[Single source - verify]`
+- **Water min:** 45 m² `[planetzoohelper 2026-09-17]`
 - **Water:** not specified separately in source data (Aquatic listed among biomes -- water component required) `[Single source - verify]`
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** 13-38°C `[Single source - verify]`
 - **Biome(s):** Aquatic, Grassland
+- **Terrain composition:** grass 10-100% / soil 30-100% / rock 0-10% / sand 0-80% / snow 0-0% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 2, 1.25 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Shy -- stresses when guests get close or crowd in. Walkabout-eligible but a poor walkthrough choice: keep the path off the main route, or skip the guest gate and use hiding cover plus one-way glass instead. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -18,6 +22,7 @@
 - **Social type / group:** Group size not a fixed range per source; social structure not detailed. Sleeping pattern: crepuscular. Interaction tag: friendly/non-aggressive per data sheet `[Single source - verify]`
 - **Mixing compatibility:** None listed in source data
 - **Diet/enrichment:** Not detailed in source data beyond the pack's general enrichment set
+- **Sex-ratio cap:** 1 males : 49 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

@@ -16,7 +16,7 @@ A working surface to keep open beside the game.
   the game's own relationship-with-humans stat, which decides how much guest proximity and
   crowding it absorbs before Stress starts climbing. This is the stat that decides whether a
   walkthrough habitat is a good idea; the Walkabout flag only decides whether the game will
-  let you build one. Eight Walkabout-eligible species are `Shy`, so the roster marks their
+  let you build one. Ten of the 31 Walkabout-eligible species are `Shy`, so the roster marks their
   walkabout pill with a warning and the housing filter offers **Walkabout -- guest-tolerant
   only** as a shortlist you can build from.
 - **Plan.** Add species with the male/female split you intend to keep. It totals the land,
@@ -39,8 +39,12 @@ arithmetic on those.
 
 **It does not invent missing data.** Where the corpus has no figure, the cell reads "not
 recorded" rather than zero, and the totals say how many species were left out. Habitat sizes
-exist for 142 of 210 species; 68 do not have one, and 22 species are flagged because the
-research pass could not reach their in-game data at all. You will see exactly which.
+now exist for every one of the 168 habitat species, as do water and climbing area, temperature
+band, biome, terrain composition, barrier grade and guest tolerance. That was not true until
+2026-09-17: 68 species had no recorded size and 22 carried a gap flag meaning no in-game data
+had been reached at all. One species, the Desert Horned Viper, is still gap-flagged. What
+remains thin is per-species diet, enrichment and mixing compatibility on the DLC packs whose
+research pass hit a source wall.
 
 **Prices are yours to enter.** No source publishes animal or building prices and they shift
 between patches, so the tool ships with empty price fields instead of stale numbers. What

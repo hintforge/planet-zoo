@@ -10,16 +10,21 @@
 **Resolved at P3** (2026-08-22) -- the P1 contradiction is superseded. Current Fandom pages and the senginous/Villanelle "Details" tab agree exactly for patch-current (1.20.2) data:
 
 - **Land:** 1,162 m² + 92 m²/additional
+- **Water min:** 0 m² `[planetzoohelper 2026-09-17]`
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** -8 to 29 degC
 - **Biome:** Temperate Forest, Taiga, Tundra
-- **Fence grade:** 2 (>1.25m)
+- **Terrain composition:** grass 0-30% / soil 0-60% / rock 0-50% / sand 0-20% / snow 0-100% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 2, 1.25 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
+- **Fence grade:** 2 (>1.25m)
 
 ## Social, diet, enrichment
 
 - **Social type / group:** Family pack, alpha pair; 2-12
 - **Mixing compatibility:** None -- no mixing bonus from any species
 - **Diet/enrichment:** Whole Carcass / Prey-Scented Sack / Blood Scent Marker
+- **Sex-ratio cap:** 12 males : 12 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

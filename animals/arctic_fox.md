@@ -9,8 +9,11 @@
 
 - **Land min / +per adult:** 200 m² base / +32 m² per extra
 - **Water:** 0 m²
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** -50 to 28 degC -- the widest single temperature band found across all 21 DLC packs surveyed this pass
 - **Biome(s):** Taiga, Tundra
+- **Terrain composition:** grass 0-40% / soil 0-100% / rock 0-60% / sand 0-60% / snow 0-100% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 2, 1.25 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Shy -- stresses when guests get close or crowd in. Needs hiding cover, one-way glass, or a low-traffic placement. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -18,6 +21,7 @@
 - **Social type / group:** Up to 6 males / 6 females, family pack
 - **Mixing compatibility:** None recorded this pass
 - **Diet/enrichment:** Not specified in source data this pass
+- **Sex-ratio cap:** 6 males : 6 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

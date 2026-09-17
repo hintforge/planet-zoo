@@ -13,6 +13,7 @@
 - **Temperature range:** 16-42 degC
 - **Biome:** Tropical
 - **Terrain composition:** grass 10-60% / soil 0-30% / rock 0-40% / sand 20-50% / snow 0%
+- **Barrier:** grade 1, 0.5 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -21,6 +22,7 @@
 - **Mixing compatibility:** None
 - **Diet:** Hay / Root Vegetables / Fruit
 - **Enrichment sample:** Hanging Barrel Feeder, Plant Screen, Sprinkler
+- **Sex-ratio cap:** 1 males : 3 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

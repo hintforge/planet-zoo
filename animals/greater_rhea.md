@@ -8,8 +8,12 @@
 ## Housing & environment
 
 - **Land (individual / family):** 660 m² / 993 m²
+- **Water min:** 0 m² `[planetzoohelper 2026-09-17]`
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** -4 to 38°C
 - **Biome(s):** Grassland, Temperate
+- **Terrain composition:** grass 0-100% / soil 0-50% / rock 0-10% / sand 0-30% / snow 0-0% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 2, 1.25 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -18,6 +22,7 @@
 - **Mixing compatibility:** Yes -- Alpaca (Barnyard DLC), Capybara (Wetlands DLC), Llama (South America Pack DLC)
 - **Diet:** Bird Pellets, Seeds, Locusts and Crickets
 - **Activity pattern:** Diurnal
+- **Sex-ratio cap:** 1 males : 12 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

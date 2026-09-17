@@ -8,9 +8,13 @@
 ## Housing & environment
 
 - **Land min (individual / family):** 220 m² / 320 m²
+- **Water min:** 10 m² `[planetzoohelper 2026-09-17]`
 - **Water:** not specified separately in source data (Aquatic listed among biomes -- water component required)
+- **Climb min:** 20 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** -9 to 42°C
 - **Biome(s):** Aquatic, Temperate, Grassland, Taiga, Tropical
+- **Terrain composition:** grass 30-100% / soil 10-60% / rock 0-30% / sand 0-30% / snow 0-100% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 2, 3 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. The safest walkthrough choice. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -18,6 +22,7 @@
 - **Social type / group:** Group 2-5; social structure not detailed in source data
 - **Mixing compatibility:** Not detailed for this species directly in source data -- see Striped Skunk's entry for a flagged skunk-raccoon mixing claim from an editorial source
 - **Diet/enrichment:** Not otherwise detailed in source data
+- **Sex-ratio cap:** 2 males : 3 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

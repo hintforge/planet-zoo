@@ -8,16 +8,21 @@
 ## Housing & environment
 
 - **Land (individual / family):** 1,162 m² / 1,346 m²
-- **Fence:** Grade 2, >=1.25 m
+- **Water min:** 0 m² `[planetzoohelper 2026-09-17]`
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** -12 to 16 degC
 - **Biome(s):** Taiga, Tundra
+- **Terrain composition:** grass 0-30% / soil 0-60% / rock 0-50% / sand 0-20% / snow 0-100% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 2, 1.25 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
+- **Fence:** Grade 2, >=1.25 m
 
 ## Social, diet, enrichment
 
 - **Social type / group:** 2-8 (up to 8M, 8F)
 - **Mixing compatibility:** None listed
 - **Diet/enrichment:** not specified in source data
+- **Sex-ratio cap:** 8 males : 8 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

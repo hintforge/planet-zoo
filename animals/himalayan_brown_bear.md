@@ -13,6 +13,7 @@
 - **Temperature range:** -10 to 22 degC
 - **Biome:** Taiga, Tundra
 - **Terrain composition:** grass 0-30% / soil 0-60% / rock 0-60% / sand 0-20% / snow 20-100%
+- **Barrier:** grade 4, 2 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -21,6 +22,7 @@
 - **Mixing compatibility:** None
 - **Diet:** Leaves, Nuts & Meat / Fruit & Veg / Fish
 - **Enrichment sample:** Bamboo/Roller feeders, Wind Chimes
+- **Sex-ratio cap:** 1 males : 1 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

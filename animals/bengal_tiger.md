@@ -13,6 +13,7 @@
 - **Temperature range:** 12-42 degC
 - **Biome:** Grassland, Tropical, Temperate
 - **Terrain composition:** grass 10-30% / soil 20-90% / rock 0-50% / sand 0-20% / snow 0%
+- **Barrier:** grade 3, 3 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -21,6 +22,7 @@
 - **Mixing compatibility:** None
 - **Diet:** Processed Meat / Whole Carcass / Whole Fish
 - **Enrichment sample:** Frozen Blood Pumpkin, Restraint Feeder, Scratching Post
+- **Sex-ratio cap:** 1 males : 1 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

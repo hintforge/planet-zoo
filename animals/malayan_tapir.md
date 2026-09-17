@@ -9,8 +9,11 @@
 
 - **Land min / +per adult:** 430 m² base / +56 m² per extra
 - **Water:** 0 m² (no separate water field given; Aquatic is a listed biome)
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** 6-42 degC
 - **Biome(s):** Aquatic, Temperate, Tropical
+- **Terrain composition:** grass 20-100% / soil 20-100% / rock 0-40% / sand 0-30% / snow 0-0% `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 3, 2 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -18,6 +21,7 @@
 - **Social type / group:** 1 male / 1 female, solitary
 - **Mixing compatibility:** **[Contradicted across sources]** the numeric mixing tool flags Malayan Tapir "No" for cross-species mixing, but individual species pages list it as compatible with Binturong -- most likely a one-directional compatibility flag (A->B recorded but not B->A) rather than a genuine conflict.
 - **Diet/enrichment:** Not specified in source data this pass
+- **Sex-ratio cap:** 1 males : 1 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 

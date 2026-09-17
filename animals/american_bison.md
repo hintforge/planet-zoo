@@ -8,9 +8,12 @@
 ## Housing & environment
 
 - **Land:** 1,000 m² min, 100% land
-- **Terrain:** 60% grass
+- **Water min:** 0 m² `[planetzoohelper 2026-09-17]`
+- **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** -20 to 30 degC (ideal 15)
 - **Biome:** Grassland
+- **Terrain:** 60% grass
+- **Barrier:** grade 3, 1.25 m minimum height `[planetzoohelper 2026-09-17]`
 - **Guest tolerance:** Neutral -- tolerates normal viewing but needs somewhere to retreat when crowds build. `[planetzoohelper 2026-09-17]`
 
 ## Social, diet, enrichment
@@ -18,6 +21,7 @@
 - **Social type / group:** Herd, 15-400
 - **Mixing compatibility:** Bighorn Sheep (DLC), Black-Tailed Prairie Dog (DLC), Collared Peccary, Pronghorn Antelope
 - **Diet/enrichment:** Grazing Ball Feeder / Mud Bath / Rubbing Pillar / Ice Block
+- **Sex-ratio cap:** 1 males : 14 females (mixed group) `[planetzoohelper 2026-09-17]`
 
 ## Welfare gotcha
 
