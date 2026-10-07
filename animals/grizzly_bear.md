@@ -1,13 +1,13 @@
 # Animals -- Grizzly Bear
 
 **status:** research-integrated
-**last_reconciled:** 2026-08-22
+**last_reconciled:** 2026-10-07
 
 **Latin:** *Ursus arctos horribilis* | **Continent:** North America | **IUCN (in-game):** Least Concern | **Housing type:** Habitat
 
 ## Housing & environment
 
-- **Land:** 750 m² min. No navigable water strictly required, but will swim if provided.
+- **Land:** 750 m² min (+50 m² per extra animal). No navigable water strictly required, but will swim if provided. `[resolved 2026-10-07: planetzoopedia table agrees with 750; planetzoohelper's 775 is not supported by it]`
 - **Water min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** -15 to 35 degC (ideal 10)

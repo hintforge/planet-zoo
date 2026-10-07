@@ -71,62 +71,65 @@ Sources I found that look useful but couldn't fully fetch -- paywalls, Cloudflar
 - **Developer achievement descriptions** -- Steam/PSN/Xbox achievement description text is publisher IP and is intentionally NOT captured. Achievement *names* are captured verbatim (lookup keys); trigger conditions are researched and paraphrased in P1, not lifted from the platform.
 - **Dormant vectors** -- Planet Zoo has no enemies, no combat, and no traditional puzzles, so the `boss` / `enemy` / `puzzle` research vectors have no content to fill. This is expected, not a gap.
 
-## Two community datasets disagree on 37 habitat figures (added 2026-09-17)
+## Two community datasets disagree on 37 habitat figures (added 2026-09-17; 17 settled 2026-10-07, 20 still open)
 
 The 2026-09-17 fill pass sourced housing data from planetzoohelper.com for every habitat
 species. Where the corpus already held a figure from the 2026-08 P1/P3 passes (Fandom plus
 the senginous/Villanelle spreadsheets), the two agree on 99 of 140 land figures, 87 of 93
-water figures and most climb figures. **They disagree on the 37 below, and this corpus does
-not know which is right.**
+water figures and most climb figures. They disagreed on 37; the 2026-09-17 pass kept the
+P1/P3 figure in every case rather than pick by "most recent read".
 
-The existing figure was kept in every case -- a newer capture is not automatically a better
-one, and silently swapping 37 numbers to the source that happened to be read last would
-destroy the earlier research without recording that it had happened. The planner therefore
-shows the P1/P3 figure for these species.
+**Resolved 2026-10-07** (model analysis, Sonnet worker, work-the-plate). Third sources: (a)
+Frontier's official PC update notes, every version 1.0 to 1.20.2, searched for any change to
+habitat space; (b) the fan-made Zoopedia table at planetzoopedia.com (undated; its content
+puts it between the 1.6.0 update of mid-2021 and the Wetlands pack, and one row, Jaguar, is
+older than the rest). Where only (b) was used, a figure counts as settled only because (b)
+agrees with exactly one of the two values AND the official notes show no change to that
+species' space in any version. Raw captures: `research_inbox/manual/` (kept local, not
+published): `planetzoopedia_zoopedia_table_2026-10-07.md`,
+`frontier_official_update_notes_area_lines_2026-10-07.md`.
+- Settled by an official patch note: Polar Bear land 3,970 -> 3,250 (1.6.0 sets 3250 m2, down
+  from 6000). Jaguar land 705 -> 668 and water 398 -> 37 (1.3.0 moved ~5% of land into a
+  water requirement; 705 is the pre-1.3.0 figure, 668 + 37 = 705).
+- Settled by planetzoopedia + planetzoohelper agreeing, no later Frontier change: Jaguar climb
+  861 -> 80; Capuchin climb 215 -> 20; Koala climb 215 -> 20; American Bison land 1000 -> 420;
+  Baird's Tapir land 200 -> 430; Malayan Tapir water 0 -> 37 (the "0" was a missing field);
+  Pronghorn land 500 -> 370; Giant Otter land 504 -> 360 and water 696 -> 144; Grey Seal land
+  500 -> 200 and water 624 -> 300; King Penguin land 344 -> 200; Pygmy Hippo land 540 -> 270.
+- Settled the other way: Grizzly Bear land stays 750 (planetzoopedia agrees with the corpus;
+  planetzoohelper's 775 has no support).
+- Pattern found while settling: for the 5 aquatic species the old "land" figure equals the
+  true land plus water (Giant Otter 360 + 144 = 504, Grey Seal 200 + 300 = 500, King Penguin
+  200 + 144 = 344, Pygmy Hippo 270 + 270 = 540, Polar Bear 3250 + 720 = 3970).
 
-Resolving this needs a third source per species, the way the P3 pass resolved the
-`greater_flamingo` / `red_deer` / `timber_grey_wolf` contradiction: check both against a
-current Fandom page or in-game Zoopedia for a known patch. Nobody has done that. The
-disagreements are not random -- most are the corpus reading high -- which is consistent with
-the two datasets measuring different things (a group-sized minimum versus a single-animal
-one), but that is a hypothesis, not a finding.
+**Still open (20).** No third source reachable without a Fandom read (HTTP 402 to automated
+fetch; a real-browser read worked on 2026-10-07 per CHECKPOINT v9 but the browser is
+currently hung) or an in-game Zoopedia look. Planetzoopedia has none of these species;
+Frontier's notes change none of their space figures (checked by name), apart from the
+1.0.0 line lowering the Red-Crowned Crane's minimum group. The pattern
+above still fits 10 of the open rows exactly (corpus "land" = planetzoohelper land + water),
+and 5 more fit as "base + group-size increments"; that is strong circumstantial evidence,
+NOT a settlement. Checked column below says which.
 
-| Species | Field | Corpus (P1/P3, 2026-08) | planetzoohelper (2026-09-17) |
-|---|---|---|---|
-| Colombian White-Faced Capuchin Monkey | climb min | 215 m2 | 20 m2 |
-| Jaguar | climb min | 861 m2 | 80 m2 |
-| Koala | climb min | 215 m2 | 20 m2 |
-| Alpaca | land min | 395 m2 | 325 m2 |
-| Alpine Goat | land min | 415 m2 | 390 m2 |
-| American Bison | land min | 1000 m2 | 420 m2 |
-| American Flamingo | land min | 425 m2 | 300 m2 |
-| Asian Small-Clawed Otter | land min | 294 m2 | 210 m2 |
-| Baird's Tapir | land min | 200 m2 | 430 m2 |
-| Bush Dog | land min | 575 m2 | 500 m2 |
-| Capybara | land min | 355 m2 | 285 m2 |
-| Caracal | land min | 590 m2 | 534 m2 |
-| Collared Peccary | land min | 400 m2 | 300 m2 |
-| Giant Otter | land min | 504 m2 | 360 m2 |
-| Grey Seal | land min | 500 m2 | 200 m2 |
-| Grizzly Bear | land min | 750 m2 | 775 m2 |
-| Highland Cattle | land min | 615 m2 | 455 m2 |
-| Hill Radnor Sheep | land min | 535 m2 | 425 m2 |
-| Jaguar | land min | 705 m2 | 668 m2 |
-| King Penguin | land min | 344 m2 | 200 m2 |
-| Lar Gibbon | land min | 60 m2 | 230 m2 |
-| Nile Lechwe | land min | 435 m2 | 390 m2 |
-| Platypus | land min | 270 m2 | 180 m2 |
-| Polar Bear | land min | 3970 m2 | 3250 m2 |
-| Pronghorn Antelope | land min | 500 m2 | 370 m2 |
-| Pygmy Hippopotamus | land min | 540 m2 | 270 m2 |
-| Raccoon | land min | 220 m2 | 210 m2 |
-| Red-Crowned Crane | land min | 375 m2 | 300 m2 |
-| Spectacled Caiman | land min | 460 m2 | 240 m2 |
-| Sussex Chicken | land min | 212 m2 | 200 m2 |
-| Wild Water Buffalo | land min | 590 m2 | 570 m2 |
-| Asian Water Monitor | water min | 2 m2 | 75 m2 |
-| Giant Otter | water min | 696 m2 | 144 m2 |
-| Grey Seal | water min | 624 m2 | 300 m2 |
-| Jaguar | water min | 398 m2 | 37 m2 |
-| Little Penguin | water min | 1 m2 | 60 m2 |
-| Malayan Tapir | water min | 0 m2 | 37 m2 |
+| Species | Field | Corpus (P1/P3, 2026-08) | planetzoohelper (2026-09-17) | Checked 2026-10-07 |
+|---|---|---|---|---|
+| Alpaca | land min | 395 m2 | 325 m2 | corpus = 325 + 2 x 35 (two animals' increments); no third source |
+| Alpine Goat | land min | 415 m2 | 390 m2 | corpus = 390 + 1 x 25; no third source |
+| American Flamingo | land min | 425 m2 | 300 m2 | corpus = 300 + 125 water; Greater Flamingo (settled at P3 against current Fandom) is 300 land + 125 water; no third source for this species |
+| Asian Small-Clawed Otter | land min | 294 m2 | 210 m2 | corpus = 210 + 84 water; no third source |
+| Bush Dog | land min | 575 m2 | 500 m2 | corpus = 500 + 75 water; no third source |
+| Capybara | land min | 355 m2 | 285 m2 | corpus = 285 + 70 water; no third source |
+| Caracal | land min | 590 m2 | 534 m2 | no arithmetic fit (gap 56); no third source found |
+| Collared Peccary | land min | 400 m2 | 300 m2 | no arithmetic fit (gap 100); Frontier notes: added free in 1.15.2, no space change; no third source found |
+| Highland Cattle | land min | 615 m2 | 455 m2 | corpus = 455 + 2 x 80; no third source |
+| Hill Radnor Sheep | land min | 535 m2 | 425 m2 | corpus = 425 + 2 x 55; no third source |
+| Lar Gibbon | land min | 60 m2 | 230 m2 | corpus 60 is a climb-linked base ("60 base + 25 per climb area"), a different quantity from a land minimum; no third source found |
+| Nile Lechwe | land min | 435 m2 | 390 m2 | corpus = 390 + 45 water; no third source |
+| Platypus | land min | 270 m2 | 180 m2 | corpus = 180 + 90 water; no third source |
+| Raccoon | land min | 220 m2 | 210 m2 | corpus = 210 + 10 water; no third source |
+| Red-Crowned Crane | land min | 375 m2 | 300 m2 | corpus = 300 + 75 water; no third source |
+| Spectacled Caiman | land min | 460 m2 | 240 m2 | corpus = 240 + 220 water; no third source |
+| Sussex Chicken | land min | 212 m2 | 200 m2 | corpus = 200 + 1 x 12; no third source |
+| Wild Water Buffalo | land min | 590 m2 | 570 m2 | corpus = 570 + 20 water; no third source |
+| Asian Water Monitor | water min | 2 m2 | 75 m2 | corpus "2" is the 2 m dive depth, not an area, so no rival minimum exists; the 75 is single-source |
+| Little Penguin | water min | 1 m2 | 60 m2 | corpus "1" is "+1 m2 per group", an increment, so no rival minimum exists; the 60 is single-source |

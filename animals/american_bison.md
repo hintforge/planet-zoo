@@ -1,13 +1,13 @@
 # Animals -- American Bison
 
 **status:** research-integrated
-**last_reconciled:** 2026-08-22
+**last_reconciled:** 2026-10-07
 
 **Latin:** *Bison bison bison* | **Continent:** North America | **IUCN (in-game):** Near Threatened | **Housing type:** Habitat
 
 ## Housing & environment
 
-- **Land:** 1,000 m² min, 100% land
+- **Land:** 420 m² min (+90 m² per extra animal), 100% land `[resolved 2026-10-07: planetzoopedia table and planetzoohelper agree; no Frontier note changes it; the old 1,000 has no matching source]`
 - **Water min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** -20 to 30 degC (ideal 15)

@@ -1,13 +1,13 @@
 # Animals -- Pronghorn Antelope
 
 **status:** research-integrated
-**last_reconciled:** 2026-08-22
+**last_reconciled:** 2026-10-07
 
 **Latin:** *Antilocapra americana* | **Continent:** North America | **IUCN (in-game):** Least Concern | **Housing type:** Habitat (Walkabout-flagged)
 
 ## Housing & environment
 
-- **Land:** 500 m² min, 100% land
+- **Land:** 370 m² min (+60 m² per extra animal), 100% land `[resolved 2026-10-07: planetzoopedia table and planetzoohelper agree; Frontier's 1.5.0 note only widened its biome, not its space; the old 500 has no matching source]`
 - **Water min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** -5 to 30 degC (ideal 10)
