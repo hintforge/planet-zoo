@@ -1,13 +1,14 @@
 # Animals -- Polar Bear
 
 **status:** research-integrated
-**last_reconciled:** 2026-08-22
+**last_reconciled:** 2026-10-07
 
 **Continent:** North America / Europe / Asia (Canada, Alaska, Greenland, Svalbard, Russia, Iceland) | **IUCN (in-game):** Vulnerable | **Housing type:** Habitat
 
 ## Housing & environment
 
-- **Land (individual / family):** 3,970 m² / 5,990 m²
+- **Land:** 3,250 m² (+650 m² per extra animal) `[resolved 2026-10-07: Frontier's 1.6.0 notes set land to 3250 m² (from 6000); the old 3,970 was land + water, 3250 + 720]`
+- **Family total:** 5,990 m² (old P3 figure, not re-checked; treat as unverified)
 - **Water min:** 720 m² `[planetzoohelper 2026-09-17]`
 - **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** -20 to 16 degC
