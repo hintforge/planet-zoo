@@ -1,13 +1,13 @@
 # Animals -- Baird's Tapir
 
 **status:** research-integrated
-**last_reconciled:** 2026-08-22
+**last_reconciled:** 2026-10-07
 
 **Latin:** *Tapirus bairdii* | **Continent:** South America (native range: Central America) | **IUCN (in-game):** Endangered | **Housing type:** Habitat
 
 ## Housing & environment
 
-- **Land:** 200 m² min, 75% land / 25% water
+- **Land:** 430 m² min (+56 m² per extra animal) `[resolved 2026-10-07: planetzoopedia table and planetzoohelper agree; no Frontier note changes it; the old 200 and its 75% land / 25% water split have no matching source]`
 - **Water min:** 37 m² `[planetzoohelper 2026-09-17]`
 - **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** 20-30 degC (ideal 25)

@@ -1,14 +1,14 @@
 # Animals -- Malayan Tapir
 
 **status:** research-integrated
-**last_reconciled:** 2026-08-22
+**last_reconciled:** 2026-10-07
 
 **Continent:** Asia | **IUCN (real):** Endangered | **Housing type:** Habitat
 
 ## Housing & environment
 
 - **Land min / +per adult:** 430 m² base / +56 m² per extra
-- **Water:** 0 m² (no separate water field given; Aquatic is a listed biome)
+- **Water:** 37 m² (+19 m² per extra animal) `[resolved 2026-10-07: planetzoopedia table and planetzoohelper agree; no Frontier note changes it; the P3 "0" was a missing field, not a measured zero]`
 - **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** 6-42 degC
 - **Biome(s):** Aquatic, Temperate, Tropical

@@ -1,7 +1,7 @@
 # Animals -- Koala
 
 **status:** research-integrated
-**last_reconciled:** 2026-08-22
+**last_reconciled:** 2026-10-07
 
 **Continent:** Oceania (Eastern Australia) | **IUCN (in-game):** Vulnerable | **Housing type:** Habitat
 
@@ -10,7 +10,7 @@
 - **Land:** 180 m²
 - **Family total:** 300 m²
 - **Water:** 0 m²
-- **Climb:** 215 m²
+- **Climb:** 20 m² (+20 m² per extra animal) `[resolved 2026-10-07: planetzoopedia table and planetzoohelper agree; no Frontier note changes it; the old 215 has no matching source]`
 - **Temperature range:** 8-42 degC
 - **Biome(s):** Tropical, Temperate
 - **Terrain composition:** grass 0-100% / soil 0-100% / rock 0-30% / sand 0-50% / snow 0-0% `[planetzoohelper 2026-09-17]`
