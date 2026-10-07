@@ -1,14 +1,14 @@
 # Animals -- Grey Seal
 
 **status:** research-integrated
-**last_reconciled:** 2026-08-22
+**last_reconciled:** 2026-10-07
 
 **Continent:** North America / Europe (Atlantic coasts) | **IUCN (in-game):** Least Concern | **Housing type:** Habitat
 
 ## Housing & environment
 
-- **Land:** 500 m²
-- **Water:** 624 m²
+- **Land:** 200 m² `[resolved 2026-10-07: planetzoopedia table and planetzoohelper agree; no Frontier note changes it. The old 500 was land + water, 200 + 300]`
+- **Water:** 300 m² `[resolved 2026-10-07: same two sources agree; the old 624 has no matching source]`
 - **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** -15 to 26 degC
 - **Biome(s):** Aquatic, Temperate, Tundra

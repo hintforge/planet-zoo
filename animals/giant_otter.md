@@ -1,14 +1,14 @@
 # Animals -- Giant Otter
 
 **status:** research-integrated
-**last_reconciled:** 2026-08-22
+**last_reconciled:** 2026-10-07
 
 **Continent:** South America (Amazon basin, Pantanal) | **IUCN (in-game):** Endangered | **Housing type:** Habitat
 
 ## Housing & environment
 
-- **Land:** 504 m²
-- **Water:** 696 m²
+- **Land:** 360 m² `[resolved 2026-10-07: planetzoopedia table and planetzoohelper agree; no Frontier note changes it. The old 504 was land + water, 360 + 144]`
+- **Water:** 144 m² `[resolved 2026-10-07: same two sources agree; the old 696 has no matching source]`
 - **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** 10-42 degC
 - **Biome(s):** Aquatic, Tropical, Grassland

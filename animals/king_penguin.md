@@ -1,14 +1,14 @@
 # Animals -- King Penguin
 
 **status:** research-integrated
-**last_reconciled:** 2026-08-22
+**last_reconciled:** 2026-10-07
 
 **Continent:** Antarctica / South America / Oceania (Falklands, South Georgia) | **IUCN (in-game):** Least Concern | **Housing type:** Habitat
 
 ## Housing & environment
 
-- **Land:** 344 m²
-- **Total habitat (land+water):** 399 m² -- water portion not separately itemized in source data
+- **Land:** 200 m² `[resolved 2026-10-07: planetzoopedia table and planetzoohelper agree; no Frontier note changes it. The old 344 was land + water, 200 + 144]`
+- **Total habitat (land+water), old P3 figure:** 399 m² -- not re-checked; treat as unverified
 - **Water min:** 144 m² (of which deep water 86 m²) `[planetzoohelper 2026-09-17]`
 - **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** -20 to 17 degC

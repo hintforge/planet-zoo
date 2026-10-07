@@ -1,14 +1,15 @@
 # Animals -- Pygmy Hippopotamus
 
 **status:** research-integrated
-**last_reconciled:** 2026-08-22
+**last_reconciled:** 2026-10-07
 
 **Continent:** Africa (Sierra Leone, Liberia, Guinea, Ivory Coast) | **IUCN (in-game):** Endangered | **Housing type:** Habitat
 
 ## Housing & environment
 
-- **Land (individual / family):** ~540 m² / 660 m² -- source notes an equal land/water split, i.e. water area matches the land figures above
-- **Water:** equal to land (per source note, not separately itemized)
+- **Land:** 270 m² (+30 m² per extra animal) `[resolved 2026-10-07: planetzoopedia table and planetzoohelper agree; no Frontier note changes it. The old ~540 was land + water, 270 + 270]`
+- **Family total:** 660 m² (old P3 figure, not re-checked; treat as unverified)
+- **Water:** 270 m² (equal to land) `[planetzoopedia 2026-10-07]`
 - **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** 12-42 degC
 - **Biome(s):** Aquatic, Tropical
