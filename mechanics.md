@@ -504,21 +504,21 @@ _source: deep-research cascade P1 2026-08-21 · capture: web_fetch · confidence
 | 6 | Southeast Asia Animal Pack | 30 Mar 2021 | Animal pack | 8 | 0 [Confirmed -- Fandom Achievements master list] |
 | 7 | Africa Pack | 22 Jun 2021 | Scenery-and-animals | 5 | 0 |
 | 8 | North America Animal Pack | 4 Oct 2021 | Animal pack | 8 | 0 |
-| 9 | Europe Pack | 14 Dec 2021 | Scenery-and-animals | 5 | 0 [Hypothesis -- unverified, not independently checked against the Fandom master list this pass] |
+| 9 | Europe Pack | 14 Dec 2021 | Scenery-and-animals | 5 | 0 [Confirmed 2026-10-17 -- Fandom Achievements master list + Steam app page] |
 | 10 | Wetlands Animal Pack | 12 Apr 2022 | Animal pack | 8 | 0 [Confirmed -- Steam Community achievements guide] |
 | 11 | Conservation Pack | 21 Jun 2022 | Conservation pack | 5 | 0 [Confirmed -- Steam Community achievements guide] |
 | 12 | Twilight Pack | 18 Oct 2022 | Animal + scenery | 5 | 0 [Confirmed -- Steam Community achievements guide] |
 | 13 | Grasslands Animal Pack | 13 Dec 2022 | Animal pack | 12 (7 habitat + 5 butterflies) | 0 [Confirmed -- Steam Community achievements guide] |
 | 14 | Tropical Pack | 4 Apr 2023 | Scenery-and-animals | 5 | 0 [Confirmed -- Fandom Achievements master list] |
-| 15 | Arid Animal Pack | 20 Jun 2023 | Animal pack | 8 | 0 [Hypothesis -- unverified] |
+| 15 | Arid Animal Pack | 20 Jun 2023 | Animal pack | 8 | 0 [Confirmed 2026-10-17 -- Fandom Achievements master list + Steam app page] |
 | 16 | Oceania Pack | 19 Sep 2023 | Scenery-and-animals | 5 | 0 |
-| 17 | Eurasia Animal Pack | 13 Dec 2023 | Animal pack | 8 | 0 [Hypothesis -- unverified, not independently checked against the Fandom master list this pass] |
+| 17 | Eurasia Animal Pack | 13 Dec 2023 | Animal pack | 8 | 0 [Confirmed 2026-10-17 -- Fandom Achievements master list + Steam app page] |
 | 18 | Barnyard Animal Pack | 30 Apr 2024 | Animal pack | 7 | 0 |
-| 19 | Zookeepers Animal Pack | 15 Oct 2024 | Animal pack | 7 | 0 [Hypothesis -- unverified -- Fandom access wall hit this pack specifically] |
+| 19 | Zookeepers Animal Pack | 15 Oct 2024 | Animal pack | 7 | 0 [Confirmed 2026-10-17 -- Fandom Achievements master list + Steam app page] |
 | 20 | Americas Animal Pack | 15 Apr 2025 | Animal pack | 7 | 0 [Confirmed -- Steam Hunters + base achievement list] |
-| 21 | Asia Animal Pack | 25 Jun 2025 | Animal pack | 7 | 0 [Hypothesis -- unverified -- Fandom access wall hit this pack specifically] |
+| 21 | Asia Animal Pack | 25 Jun 2025 | Animal pack | 7 | 0 [Confirmed 2026-10-17 -- Fandom Achievements master list + Steam app page] |
 
-**Zero DLC-specific achievements exist for any pack.** All 38 Steam achievements remain attached to the base app (703080), none to a DLC appid. Confidence varies per pack (see table): 8 packs directly checked against the Fandom Achievements master list or an equivalent per-pack citation; the remaining packs (Arctic, South America, Australia, Aquatic, Africa, North America Animal Pack, Oceania, Barnyard) assert zero with no dedicated per-pack citation surfaced this pass -- treat as medium-confidence, not verified; and 5 packs (Europe, Eurasia, Arid, Zookeepers, Asia Animal Pack) carry the finding as `[Hypothesis - unverified]` because a source-access failure (WebSearch budget exhaustion + Fandom HTTP 402 on every blocked-source-ladder rung) prevented the pass from directly checking those specifically.
+**Zero DLC-specific achievements exist for any pack.** All 38 Steam achievements remain attached to the base app (703080), none to a DLC appid. Confidence varies per pack (see table): 8 packs directly checked against the Fandom Achievements master list or an equivalent per-pack citation; the remaining packs (Arctic, South America, Australia, Aquatic, Africa, North America Animal Pack, Oceania, Barnyard) assert zero with no dedicated per-pack citation surfaced this pass -- treat as medium-confidence, not verified; and 5 packs (Europe, Eurasia, Arid, Zookeepers, Asia Animal Pack) were `[Hypothesis - unverified]` until 2026-10-17, when they were confirmed (model analysis, Sonnet worker, work-the-plate -- 2026-10-17): the Planet Zoo Fandom Achievements page lists exactly 38 Steam achievements and none mentions a DLC pack, and Steam's own Planet Zoo community page (app 703080) headlines "38 achievements" -- the same count as the base list, so no pack has added one. The Steam count covers every pack, so it also supports the 8 packs rated medium above, though only the 5 were re-checked by name.
 
 **Type-naming pattern** [model observation, not an official Frontier taxonomy]: packs titled plain "___ Pack" bundle new animals **with** a themed scenery/building set (170-350+ pieces) and often a new career scenario. Packs titled "___ Animal Pack" are animal-focused with thinner or no dedicated scenery theme. Conservation Pack is a standalone hybrid. All packs run $9.99/£7.99/€9.99 except the Deluxe Upgrade Pack ($11.99, no scenery, 3 animals only).
 
