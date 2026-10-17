@@ -7,8 +7,8 @@
 
 ## Housing & environment
 
-- **Land min / +per adult:** 455 m² / +80 m² `[planetzoohelper 2026-09-17]`
-- **Land base +per adult (per-CC scaling):** 615 m² base + 3.50 m²/CC
+- **Land min / +per adult:** 455 m² / +80 m² `[planetzoohelper 2026-09-17]` `[resolved 2026-10-17: the Fandom Highland Cattle page also gives 455 m² plus 80 per added animal, agreeing with planetzoohelper; the older 615 has no support]`
+- **Land base +per adult (per-CC scaling):** 615 m² base + 3.50 m²/CC `[superseded 2026-10-17: earlier P1/P3 figure, not the minimum]`
 - **Water min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Water:** Not specified in source data
 - **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`

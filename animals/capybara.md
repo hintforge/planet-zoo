@@ -7,7 +7,8 @@
 
 ## Housing & environment
 
-- **Land min (individual / family):** 355 m² / 655 m² `[Single source - verify]`
+- **Land min / +per adult:** 285 m² / +48 m² `[resolved 2026-10-17: the Fandom Capybara page and planetzoohelper both give 285 m² land plus 70 m² water; the earlier 355 was land + water]`
+- *Earlier P1/P3 figure, superseded:* Land min (individual / family) 355 m² / 655 m².
 - **Water min:** 70 m² `[planetzoohelper 2026-09-17]`
 - **Water:** not specified separately in source data (Aquatic listed among biomes -- water component required) `[Single source - verify]`
 - **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`

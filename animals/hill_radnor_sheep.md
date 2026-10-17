@@ -7,8 +7,8 @@
 
 ## Housing & environment
 
-- **Land min / +per adult:** 425 m² / +55 m² `[planetzoohelper 2026-09-17]`
-- **Land base +per adult (per-CC scaling):** 535 m² base + 4.20 m²/CC
+- **Land min / +per adult:** 425 m² / +55 m² `[planetzoohelper 2026-09-17]` `[resolved 2026-10-17: the Fandom Hill Radnor Sheep page also gives 425 m² plus 55 per added animal, agreeing with planetzoohelper; the older 535 has no support]`
+- **Land base +per adult (per-CC scaling):** 535 m² base + 4.20 m²/CC `[superseded 2026-10-17: earlier P1/P3 figure, not the minimum]`
 - **Water min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Water:** Not specified in source data
 - **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`

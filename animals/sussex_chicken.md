@@ -7,8 +7,8 @@
 
 ## Housing & environment
 
-- **Land min / +per adult:** 200 m² / +12 m² `[planetzoohelper 2026-09-17]`
-- **Land base +per adult (per-CC scaling):** 212 m² base + 1.70 m²/CC
+- **Land min / +per adult:** 200 m² / +12 m² `[planetzoohelper 2026-09-17]` `[resolved 2026-10-17: the Fandom Sussex Chicken page also gives 200 m² plus 12 per added animal, agreeing with planetzoohelper; the older 212 is one animal's increment added on top]`
+- **Land base +per adult (per-CC scaling):** 212 m² base + 1.70 m²/CC `[superseded 2026-10-17: earlier P1/P3 figure, not the minimum]`
 - **Water min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Water:** Not specified in source data
 - **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`

@@ -7,7 +7,8 @@
 
 ## Housing & environment
 
-- **Land min (individual / family):** 460 m² / 524 m² `[Single source - verify]`
+- **Land min / +per adult:** 240 m² / +18 m² `[resolved 2026-10-17: the Fandom Spectacled Caiman page and planetzoohelper both give 240 m² land plus 220 m² water; the earlier 460 was land + water]`
+- *Earlier P1/P3 figure, superseded:* Land min (individual / family) 460 m² / 524 m².
 - **Water min:** 220 m² `[planetzoohelper 2026-09-17]`
 - **Water:** not specified separately in source data (Aquatic listed among biomes -- water component required) `[Single source - verify]`
 - **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`

@@ -42,9 +42,9 @@ recorded" rather than zero, and the totals say how many species were left out. H
 now exist for every one of the 168 habitat species, as do water and climbing area, temperature
 band, biome, terrain composition, barrier grade and guest tolerance. That was not true until
 2026-09-17: 68 species had no recorded size and 22 carried a gap flag meaning no in-game data
-had been reached at all. One species, the Desert Horned Viper, is still gap-flagged. What
-remains thin is per-species diet, enrichment and mixing compatibility on the DLC packs whose
-research pass hit a source wall.
+had been reached at all. As of 2026-10-17 no species is gap-flagged: the Desert Horned Viper's
+exhibit data and the care lists and mixing compatibility for the other Arid, Zookeepers, Asia
+Animal Pack and Europe Pack species were read from the Planet Zoo wiki.
 
 **Prices are yours to enter.** No source publishes animal or building prices and they shift
 between patches, so the tool ships with empty price fields instead of stale numbers. What

@@ -7,7 +7,8 @@
 
 ## Housing & environment
 
-- **Land min (individual / family):** 590 m² / 756 m²
+- **Land min / +per adult:** 534 m² / +111 m² `[resolved 2026-10-17: the Fandom Caracal page and planetzoohelper both give 534 m² land (climbing area 81 m² on top); the earlier 590 has no arithmetic explanation and no support]`
+- *Earlier P1/P3 figure, superseded:* Land min (individual / family) 590 m² / 756 m².
 - **Water:** 0 m² (Aquatic not listed among biomes)
 - **Climb min:** 81 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** 0-43°C

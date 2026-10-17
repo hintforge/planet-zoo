@@ -7,7 +7,8 @@
 
 ## Housing & environment
 
-- **Land (individual / family):** 425 m² / 929 m²
+- **Land min / +per adult:** 300 m² / +9 m² `[resolved 2026-10-17: the Fandom American Flamingo page and planetzoohelper both give 300 m² land plus 125 m² water; the earlier 425 was land + water]`
+- *Earlier P1/P3 figure, superseded:* Land (individual / family) 425 m² / 929 m².
 - **Water min:** 125 m² `[planetzoohelper 2026-09-17]`
 - **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** -4 to 42°C

@@ -7,7 +7,8 @@
 
 ## Housing & environment
 
-- **Land (individual / family):** 575 m² / 725 m²
+- **Land min / +per adult:** 500 m² / +50 m² `[resolved 2026-10-17: the Fandom Bush Dog page and planetzoohelper both give 500 m² land plus 75 m² water; the earlier 575 was land + water]`
+- *Earlier P1/P3 figure, superseded:* Land (individual / family) 575 m² / 725 m².
 - **Water min:** 75 m² `[planetzoohelper 2026-09-17]`
 - **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** 13-42°C

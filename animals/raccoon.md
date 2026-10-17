@@ -7,7 +7,8 @@
 
 ## Housing & environment
 
-- **Land min (individual / family):** 220 m² / 320 m²
+- **Land min / +per adult:** 210 m² / +45 m² `[resolved 2026-10-17: the Fandom Raccoon page and planetzoohelper both give 210 m² land plus 10 m² water; the earlier 220 was land + water]`
+- *Earlier P1/P3 figure, superseded:* Land min (individual / family) 220 m² / 320 m².
 - **Water min:** 10 m² `[planetzoohelper 2026-09-17]`
 - **Water:** not specified separately in source data (Aquatic listed among biomes -- water component required)
 - **Climb min:** 20 m² `[planetzoohelper 2026-09-17]`

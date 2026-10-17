@@ -7,7 +7,8 @@
 
 ## Housing & environment
 
-- **Land min (individual / family):** 270 m² / 360 m² `[Single source - verify]`
+- **Land min / +per adult:** 180 m² / +30 m² `[resolved 2026-10-17: the Fandom Platypus page and planetzoohelper both give 180 m² land plus 90 m² water; the earlier 270 was land + water]`
+- *Earlier P1/P3 figure, superseded:* Land min (individual / family) 270 m² / 360 m².
 - **Water min:** 90 m² (of which deep water 45 m²) `[planetzoohelper 2026-09-17]`
 - **Water:** not specified separately in source data (Aquatic listed among biomes -- water component required) `[Single source - verify]`
 - **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`

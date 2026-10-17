@@ -7,8 +7,8 @@
 
 ## Housing & environment
 
-- **Land min / +per adult:** 230 m² / +60 m² `[planetzoohelper 2026-09-17]`
-- **Land base +per climb-area:** 60 m² base + 25 m²/climb-area
+- **Land min / +per adult:** 230 m² / +60 m² `[planetzoohelper 2026-09-17]` `[resolved 2026-10-17: the Fandom Lar Gibbon page also gives 230 m² plus 60 per added animal, agreeing with planetzoohelper]`
+- **Land base +per climb-area:** 60 m² base + 25 m²/climb-area `[reclassified 2026-10-17: Fandom lists 60 m² as the climbing area and 25 per added animal as its increment, so this line is the climb requirement, not a land minimum]`
 - **Water min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Water:** Not specified in source data
 - **Climb min:** 60 m² `[planetzoohelper 2026-09-17]`

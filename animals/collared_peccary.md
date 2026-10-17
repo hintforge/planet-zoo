@@ -9,7 +9,8 @@ Added free via the "Anniversary Update" (patch 1.15.2) -- not paid DLC, despite 
 
 ## Housing & environment
 
-- **Land:** 400 m² min, 100% land
+- **Land min / +per adult:** 300 m² / +7 m² `[resolved 2026-10-17: the Fandom Collared Peccary page and planetzoohelper both give 300 m²; the earlier 400 has no support]`
+- *Earlier P1/P3 figure, superseded:* Land 400 m² min, 100% land.
 - **Water min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** 5-30 degC (ideal 20)

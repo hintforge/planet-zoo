@@ -9,7 +9,7 @@
 
 - **Land min / +per adult:** 180 m² / +2 m² `[planetzoohelper 2026-09-17]`
 - **Land +per adult (per-CC scaling):** +0.10 m²/CC
-- **Water min:** 60 m² (of which deep water 35 m²) `[planetzoohelper 2026-09-17]`
+- **Water min:** 60 m² (of which deep water 35 m²) `[planetzoohelper 2026-09-17]` `[resolved 2026-10-17: the Fandom Little Penguin page also gives 60 m² water and +1 per added animal, agreeing with planetzoohelper; the older "1" was that increment, not a minimum]`
 - **Water:** +1 m²/group
 - **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** -4 to 38 degC

@@ -7,7 +7,8 @@
 
 ## Housing & environment
 
-- **Land min (individual / family):** 294 m² / 378 m² `[Single source - verify]`
+- **Land min / +per adult:** 210 m² / +30 m² `[resolved 2026-10-17: the Fandom Asian Small-Clawed Otter page and planetzoohelper both give 210 m² land plus 84 m² water; the earlier 294 was land + water]`
+- *Earlier P1/P3 figure, superseded:* Land min (individual / family) 294 m² / 378 m².
 - **Water min:** 84 m² (of which deep water 56 m²) `[planetzoohelper 2026-09-17]`
 - **Water:** not specified separately in source data (Aquatic listed among biomes -- water component required) `[Single source - verify]`
 - **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`

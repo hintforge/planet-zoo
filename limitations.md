@@ -56,7 +56,7 @@ Sources I found that look useful but couldn't fully fetch -- paywalls, Cloudflar
 - **archive.ph/archive.today was refused outright by the fetch tool** in multiple P3 passes ("unable to fetch from archive.ph/archive.is") -- a tool-level restriction, not a source-side block.
 - **Console storefronts (Xbox Store, PlayStation Store) were unreachable**, leaving whether the Deluxe Upgrade Pack's console pre-order mechanism is distinct from its PC/Steam DLC form open. See `mechanics.md` DLC Layer.
 - **No German or Simplified-Chinese community welfare spreadsheet was reached in any P3 pass**, despite the brief's preference for non-English precision sourcing -- a real, acknowledged shortfall against the source-diversity floor, same pattern as P1.
-- **Recommend for a follow-up pass**: browser-based access (e.g. claude-in-chrome) as a workaround for Fandom's persistent 402, to fill Arid/Zookeepers/Asia Animal Pack's in-game welfare numbers and confirm DLC-achievement-zero for the 5 currently-`[Hypothesis - unverified]` packs (see `achievements.md` DLC coverage).
+- **Closed 2026-10-17** (Sonnet worker, work-the-plate): Fandom pages read fine through the local `camoufox-fetch` headless browser (`?action=raw` gives the page source, including compatible-species icon names that plain page text drops). All 26 remaining Arid / Zookeepers / Asia Animal Pack / Europe Pack species now carry the in-game preferred food, feeding stations, food and habitat enrichment, mixing compatibility and group caps (Addax was done 2026-10-07); the five hypothesis packs' zero-DLC-achievements finding is confirmed (`mechanics.md` DLC Layer). What no Fandom page gives, for any of the 27 species: a species-specific welfare gotcha. Compatible-species lists are icon names resolved to species names, so a wrong resolution is possible; each file says so. One real-world figure stays disputed: the Fire Salamander's IUCN status (game infobox Vulnerable, its Zoopedia text "not endangered").
 
 ### Documented mechanical formula gaps (not source-access failures -- genuine absence in the public community corpus)
 - **Exact welfare loss/recovery rates** (percent-per-hour or per-day, per pillar) beyond the single ~10%/month enrichment-rejuvenation figure -- UNRESOLVED, re-attempted at P3 with no new data found (official guide, community datamining, Frontier forums, Reddit all searched specifically). See `mechanics.md` Animal Welfare. This is now the single largest confirmed-genuine (not access-blocked) gap in the corpus.
@@ -71,7 +71,7 @@ Sources I found that look useful but couldn't fully fetch -- paywalls, Cloudflar
 - **Developer achievement descriptions** -- Steam/PSN/Xbox achievement description text is publisher IP and is intentionally NOT captured. Achievement *names* are captured verbatim (lookup keys); trigger conditions are researched and paraphrased in P1, not lifted from the platform.
 - **Dormant vectors** -- Planet Zoo has no enemies, no combat, and no traditional puzzles, so the `boss` / `enemy` / `puzzle` research vectors have no content to fill. This is expected, not a gap.
 
-## Two community datasets disagree on 37 habitat figures (added 2026-09-17; 17 settled 2026-10-07, 20 still open)
+## Two community datasets disagree on 37 habitat figures (added 2026-09-17; 17 settled 2026-10-07, the last 20 settled 2026-10-17)
 
 The 2026-09-17 fill pass sourced housing data from planetzoohelper.com for every habitat
 species. Where the corpus already held a figure from the 2026-08 P1/P3 passes (Fandom plus
@@ -102,34 +102,26 @@ published): `planetzoopedia_zoopedia_table_2026-10-07.md`,
   true land plus water (Giant Otter 360 + 144 = 504, Grey Seal 200 + 300 = 500, King Penguin
   200 + 144 = 344, Pygmy Hippo 270 + 270 = 540, Polar Bear 3250 + 720 = 3970).
 
-**Still open (20).** No third source reachable without a Fandom read (HTTP 402 to automated
-fetch; a real-browser read worked on 2026-10-07 per CHECKPOINT v9 but the browser is
-currently hung) or an in-game Zoopedia look. Planetzoopedia has none of these species;
-Frontier's notes change none of their space figures (checked by name), apart from the
-1.0.0 line lowering the Red-Crowned Crane's minimum group. The pattern
-above still fits 10 of the open rows exactly (corpus "land" = planetzoohelper land + water),
-and 5 more fit as "base + group-size increments"; that is strong circumstantial evidence,
-NOT a settlement. Checked column below says which.
-
-| Species | Field | Corpus (P1/P3, 2026-08) | planetzoohelper (2026-09-17) | Checked 2026-10-07 |
-|---|---|---|---|---|
-| Alpaca | land min | 395 m2 | 325 m2 | corpus = 325 + 2 x 35 (two animals' increments); no third source |
-| Alpine Goat | land min | 415 m2 | 390 m2 | corpus = 390 + 1 x 25; no third source |
-| American Flamingo | land min | 425 m2 | 300 m2 | corpus = 300 + 125 water; Greater Flamingo (settled at P3 against current Fandom) is 300 land + 125 water; no third source for this species |
-| Asian Small-Clawed Otter | land min | 294 m2 | 210 m2 | corpus = 210 + 84 water; no third source |
-| Bush Dog | land min | 575 m2 | 500 m2 | corpus = 500 + 75 water; no third source |
-| Capybara | land min | 355 m2 | 285 m2 | corpus = 285 + 70 water; no third source |
-| Caracal | land min | 590 m2 | 534 m2 | no arithmetic fit (gap 56); no third source found |
-| Collared Peccary | land min | 400 m2 | 300 m2 | no arithmetic fit (gap 100); Frontier notes: added free in 1.15.2, no space change; no third source found |
-| Highland Cattle | land min | 615 m2 | 455 m2 | corpus = 455 + 2 x 80; no third source |
-| Hill Radnor Sheep | land min | 535 m2 | 425 m2 | corpus = 425 + 2 x 55; no third source |
-| Lar Gibbon | land min | 60 m2 | 230 m2 | corpus 60 is a climb-linked base ("60 base + 25 per climb area"), a different quantity from a land minimum; no third source found |
-| Nile Lechwe | land min | 435 m2 | 390 m2 | corpus = 390 + 45 water; no third source |
-| Platypus | land min | 270 m2 | 180 m2 | corpus = 180 + 90 water; no third source |
-| Raccoon | land min | 220 m2 | 210 m2 | corpus = 210 + 10 water; no third source |
-| Red-Crowned Crane | land min | 375 m2 | 300 m2 | corpus = 300 + 75 water; no third source |
-| Spectacled Caiman | land min | 460 m2 | 240 m2 | corpus = 240 + 220 water; no third source |
-| Sussex Chicken | land min | 212 m2 | 200 m2 | corpus = 200 + 1 x 12; no third source |
-| Wild Water Buffalo | land min | 590 m2 | 570 m2 | corpus = 570 + 20 water; no third source |
-| Asian Water Monitor | water min | 2 m2 | 75 m2 | corpus "2" is the 2 m dive depth, not an area, so no rival minimum exists; the 75 is single-source |
-| Little Penguin | water min | 1 m2 | 60 m2 | corpus "1" is "+1 m2 per group", an increment, so no rival minimum exists; the 60 is single-source |
+**The last 20 settled 2026-10-17** (model analysis, Sonnet worker, work-the-plate -- 2026-10-17).
+Third source: each species' own Planet Zoo Fandom page (infobox: land, water, climb area and the
+per-added-animal increment), read through the camoufox-fetch headless browser. In all 20 cases
+the Fandom figure equals the planetzoohelper figure, so the planetzoohelper value stands and the
+P1/P3 figure is superseded. Each species file carries a `[resolved 2026-10-17: ...]` tag and keeps
+the old figure as a superseded line. The Zoo Planner data was rebuilt the same day.
+- Old "land" was land + water (10 species, exact): American Flamingo 300 (old 425), Asian
+  Small-Clawed Otter 210 (294), Bush Dog 500 (575), Capybara 285 (355), Nile Lechwe 390 (435),
+  Platypus 180 (270), Raccoon 210 (220), Red-Crowned Crane 300 (375), Spectacled Caiman 240 (460),
+  Wild Water Buffalo 570 (590).
+- Old figure was a per-CC scaling base with no support (4): Alpaca 325 (old 395), Alpine Goat 390
+  (415), Highland Cattle 455 (615), Hill Radnor Sheep 425 (535). Sussex Chicken 200 (212; 212 is
+  200 plus one animal's 12 m2 increment).
+- No arithmetic explanation for the old figure (2): Caracal 534 (old 590), Collared Peccary 300
+  (old 400).
+- Different quantity (2 water, 1 land): Lar Gibbon land 230 (the old 60 is the climbing area, 60
+  m2 plus 25 per added animal); Asian Water Monitor water 75 m2 (+25 per animal; the old "2" was
+  the 2 m dive depth); Little Penguin water 60 m2 (the old "1" was the +1 per animal increment).
+- **Still split, not settled:** Alpaca's per-added-animal land increment (planetzoohelper +35,
+  Fandom +45) and Hamadryas Baboon's (planetzoohelper +10, Fandom +20); only two sources exist for
+  each, so both are recorded and neither is picked.
+- Side finding, not acted on: Collared Peccary's temperature band in its file (5-30 degC) differs
+  from Fandom's -4 to 43 degC.

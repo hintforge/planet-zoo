@@ -7,7 +7,8 @@
 
 ## Housing & environment
 
-- **Land min (individual / family):** 435 m² / 645 m² `[Single source - verify]`
+- **Land min / +per adult:** 390 m² / +50 m² `[resolved 2026-10-17: the Fandom Nile Lechwe page and planetzoohelper both give 390 m² land plus 45 m² water; the earlier 435 was land + water]`
+- *Earlier P1/P3 figure, superseded:* Land min (individual / family) 435 m² / 645 m².
 - **Water min:** 45 m² `[planetzoohelper 2026-09-17]`
 - **Water:** not specified separately in source data (Aquatic listed among biomes -- water component required) `[Single source - verify]`
 - **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`

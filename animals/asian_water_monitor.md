@@ -9,7 +9,8 @@
 
 - **Land min / +per adult:** 280 m² / +30 m² `[planetzoohelper 2026-09-17]`
 - **Land +per adult (per-CC scaling):** +5.20 m²/CC
-- **Water:** ~25% of total habitat area; 2 m dive depth
+- **Water min:** 75 m² (+25 m² per added animal), 2 m minimum dive depth `[resolved 2026-10-17: the Fandom Asian Water Monitor page gives 75 m² water, +25 per animal and a 2 m deep-water depth, agreeing with planetzoohelper's 75; the older "2" was the depth, not an area]`
+- **Water (earlier P1/P3 note, superseded):** ~25% of total habitat area; 2 m dive depth
 - **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Temperature range:** 12-42 degC
 - **Biome(s):** Aquatic, Tropical

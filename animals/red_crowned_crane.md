@@ -7,7 +7,8 @@
 
 ## Housing & environment
 
-- **Land min (individual / family):** 375 m² / 567 m² `[Single source - verify]`
+- **Land min / +per adult:** 300 m² / +15 m² `[resolved 2026-10-17: the Fandom Red-Crowned Crane page and planetzoohelper both give 300 m² land plus 75 m² water; the earlier 375 was land + water]`
+- *Earlier P1/P3 figure, superseded:* Land min (individual / family) 375 m² / 567 m².
 - **Water min:** 75 m² `[planetzoohelper 2026-09-17]`
 - **Water:** not specified separately in source data (Aquatic listed among biomes -- water component required) `[Single source - verify]`
 - **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
