@@ -71,14 +71,24 @@ def parse_land(txt):
         else:
             base = areas[0]
             per = areas[1] if len(areas) > 1 else None
+        # A second per-animal increment flagged as disputed ("+10 ... Fandom +20 ...
+        # the increment is disputed" / "still split"): plan with the LARGER figure.
+        dispute = None
+        if lab == u"Land min / +per adult" and re.search(r"disputed|still split", v, re.I):
+            incs = [n(x) for x in re.findall(r"\+\s*" + NUM, v)]
+            incs = [x for x in incs if x is not None]
+            if len(set(incs)) > 1:
+                per = max(incs)
+                dispute = u"Sources disagree on the extra land per added animal (%s m²); the planner uses the larger, +%g m²." % (
+                    u" vs ".join(u"+%g" % x for x in sorted(set(incs))), per)
         fam = None
         if u"individual / family" in lab or u"individual / group" in lab:
             fam, per = per, None
         ft = field(txt, u"Family total")
         if ft:
             fam = first_area(ft)
-        return base, per, fam, lab
-    return None, None, None, None
+        return base, per, fam, lab, dispute
+    return None, None, None, None, None
 
 
 def parse_temp(txt):
@@ -258,7 +268,7 @@ for path in sorted(glob.glob(BASE + u"*.md")):
 
     gap = u"## Gap flag" in txt or u"Gap flag --" in txt
 
-    land, per_adult, fam, land_label = parse_land(txt)
+    land, per_adult, fam, land_label, land_note = parse_land(txt)
     land_raw = field(txt, *[u"Land min / +per adult", u"Land min (individual / family)",
                             u"Land (individual / family)", u"Land +per adult (per-CC scaling)",
                             u"Land base +per adult (per-CC scaling)", u"Land base +per climb-area",
@@ -315,6 +325,7 @@ for path in sorted(glob.glob(BASE + u"*.md")):
         u"land_per_adult": per_adult,
         u"land_family": fam,
         u"land_label": land_label,
+        u"land_note": land_note,
         u"land_raw": land_raw,
         u"temp_raw": temp_raw,
         u"water": water,
