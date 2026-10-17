@@ -125,3 +125,11 @@ the old figure as a superseded line. The Zoo Planner data was rebuilt the same d
   each, so both are recorded and neither is picked.
 - Side finding, not acted on: Collared Peccary's temperature band in its file (5-30 degC) differs
   from Fandom's -4 to 43 degC.
+
+## Reddit sweep conflicts (added 2026-10-17; model analysis, Sonnet worker, work-the-plate -- 2026-10-17)
+
+Original game only; every Planet Zoo 2 thread was excluded. Neither conflict is settled; both sides are kept in `mechanics.md`.
+
+- **C1 -- how much ancestry the game keeps.** `mechanics.md` Inbreeding mechanics (P1 research) says the game "does not track ancestry beyond one generation back." Frontier's Update 1.2 announcement (2020-04-07, mirrored on r/PlanetZoo) says the Genealogy UI lets you "walk" along bloodlines and "work out common ancestors." The two may not be about the same thing (warning vs data). Check: open the genealogy panel on a third-generation animal in game and see whether grandparents are listed.
+- **C2 -- exhibit animals and trading.** `mechanics.md` (Trading, and Unlock Chains) says exhibit animals cannot enter the Trade/Market system and have no CC-release path. Reddit commenters on a 2024 butterfly thread say exhibit surplus can be auto-sold, sent to the trade center, and in Sandbox released for credits. Check: in Franchise and Sandbox, open an exhibit's population tab and list the surplus options offered.
+- **Thin sweep.** 12 findings (floor 15), none from the year, month or week windows because the sub's live feed is Planet Zoo 2 traffic. The Guest View Radius spreadsheet is gone, so only the peafowl band is recorded.
