@@ -289,8 +289,14 @@ for path in sorted(glob.glob(BASE + u"*.md")):
     biomes = split_list(field(txt, u"Biome(s)", u"Biome"))
     mixing_raw = field(txt, u"Mixing compatibility")
     mixing = [] if (mixing_raw and mixing_raw.lower().startswith(u"none")) else split_list(mixing_raw)
-    diet = field(txt, u"Diet", u"Diet/enrichment", u"Real diet")
-    enrich = field(txt, u"Enrichment sample")
+    # In-game care lines (Fandom-sourced) win over the wild/real-world diet.
+    diet = field(txt, u"Preferred food", u"Diet", u"Diet/enrichment", u"Real diet")
+    feeders = field(txt, u"Feeding stations")
+    if feeders and field(txt, u"Preferred food"):
+        diet = diet + u" (feeding stations: " + feeders + u")"
+    parts = [(u"Food", field(txt, u"Food enrichment")), (u"Habitat", field(txt, u"Habitat enrichment"))]
+    parts = [u"%s: %s" % (a, b) for a, b in parts if b]
+    enrich = u"; ".join(parts) if parts else field(txt, u"Enrichment sample")
     terrain = parse_terrain(txt)
 
     gotcha = None
