@@ -1,29 +1,36 @@
 # Animals -- Somali Wild Ass
 
 **status:** research-integrated
-**last_reconciled:** 2026-08-22
+**last_reconciled:** 2026-10-17
 
 **Continent (real-world range):** Africa -- Somalia, Somaliland, Eritrea, Ethiopia | **Real IUCN status:** Critically Endangered | **Housing type:** Habitat
 
 Subspecies of the African Wild Ass (*Equus africanus somaliensis*).
 
-## Partial gap -- in-game welfare data recovered 2026-09-17, the rest still missing
+## Partial gap -- in-game care list filled 2026-10-17, welfare gotcha still missing
 
-**What is now present:** habitat size, water and climbing area, temperature band, biome, terrain composition, barrier grade, group caps and guest tolerance -- see *Housing & environment* below. These came from a single structured community dataset (planetzoohelper.com) captured 2026-09-17, so they carry `confidence: medium` and have not been cross-checked against a second source.
+**What is now present:** habitat size, water and climbing area, temperature band, biome, terrain composition, barrier grade, group caps and guest tolerance (planetzoohelper.com, 2026-09-17), plus the in-game preferred food, feeding stations, enrichment items and compatible species from the Planet Zoo Fandom Somali Wild Ass page, read 2026-10-17 -- see *Housing & environment* and *In-game care*. The Fandom page's fence grade, land area and temperature match the planetzoohelper ones, so those now have a second source.
 
-**What is still missing:** in-game diet and enrichment item names, mixing compatibility, and any species-specific welfare gotcha. The original 2026-08-22 research pass recovered none of this species' in-game data at all -- the Planet Zoo Fandom wiki returned HTTP 402 on every rung of the blocked-source recovery ladder (direct, export API, parse API, BreezeWiki, archive.ph) and the WebSearch budget was exhausted, leaving only the Wikipedia biology below. That access wall is still in place. See `limitations.md`.
+**What is still missing:** any species-specific welfare gotcha (the Fandom page lists none). See `limitations.md`.
 ## Housing & environment
 
-- **Land min / +per adult:** 625 m² / +160 m² `[planetzoohelper 2026-09-17]`
+- **Land min / +per adult:** 625 m² / +160 m² `[planetzoohelper 2026-09-17]` `[planetzoo.fandom.com 2026-10-17]`
 - **Water min:** 0 m² `[planetzoohelper 2026-09-17]`
 - **Climb min:** 0 m² `[planetzoohelper 2026-09-17]`
-- **Temperature range:** 3-43 degC `[planetzoohelper 2026-09-17]`
+- **Temperature range:** 3-43 degC `[planetzoohelper 2026-09-17]` `[planetzoo.fandom.com 2026-10-17]`
 - **Biome(s):** Desert `[planetzoohelper 2026-09-17]`
 - **Terrain composition:** grass 0-100% / soil 10-100% / rock 20-80% / sand 20-100% / snow 0-0% `[planetzoohelper 2026-09-17]`
-- **Barrier:** grade 3, 1.25 m minimum height `[planetzoohelper 2026-09-17]`
+- **Barrier:** grade 3, 1.25 m minimum height `[planetzoohelper 2026-09-17]` `[planetzoo.fandom.com 2026-10-17]`
 - **Guest tolerance:** Confident -- unbothered by guest proximity or crowding. `[planetzoohelper 2026-09-17]`
 
-This is the only in-game welfare field recovered for this species so far; the gap above otherwise still stands.
+## In-game care `[planetzoo.fandom.com 2026-10-17]`
+
+- **Preferred food:** Hay, Herbivore Pellets, Fruit and Vegetables
+- **Feeding stations:** Food Trough, Water Bowl, Water Pipe, Water Trough
+- **Food enrichment:** Grazing Ball Feeder, Large Barrel Feeder, Hanging Grazer Feeder, Melon Feeder, Scarecrow Feeder, Veggie Jelly Cake
+- **Habitat enrichment:** Musical Keyboard, Large Ball, Grab Ball, Plant Screen, Rubbing Pillar, Scots Pine/Tamarind Scratching Tree, Herb Scent Marker, Large Snow Ball, Water Jet, Water Jet Rock
+- **Mixing compatibility (compatible species):** Addax, Common Ostrich, Dromedary Camel (icons only on the wiki; names resolved from the icon file names)
+- **Group size:** 1-7 (up to 3 males and 5 females; bachelor groups: males 1-3, females 1-7). Average polygynous breeder, matures at 2 years, gestation 12 months, interbirth 12 months.
 
 ## Real-world biology (Wikipedia-sourced, not in-game data)
 
@@ -31,9 +38,9 @@ This is the only in-game welfare field recovered for this species so far; the ga
 - **Real diet:** Grasses, bark, leaves; needs water at least every 3 days
 - **Natural social structure:** Loose herds up to 50; territorial males (~23 km² territories)
 
-_source: Planet Zoo DLC research pass (P3) 2026-08-22, Wikipedia species page · capture: web_fetch · confidence: medium (real-world biology only; in-game welfare data NOT obtained) · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Arid Animal Pack_
+_source: Planet Zoo DLC research pass (P3) 2026-08-22, Wikipedia species page · capture: web_fetch · confidence: medium (biology from Wikipedia; in-game housing from planetzoohelper 2026-09-17; in-game care list from Fandom 2026-10-17) · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Arid Animal Pack_
 
 ## Sources
 - store.steampowered.com [official-pr, DLC listing]
 - en.wikipedia.org/wiki/African_wild_ass [editorial-en]
-- planetzoo.fandom.com -- UNREACHABLE this pass, full blocked-source ladder exhausted (see limitations.md)
+- planetzoo.fandom.com/wiki/Somali_Wild_Ass [community-wiki, read 2026-10-17 via the camoufox-fetch headless browser; HTTP 402 to plain automated fetches]
