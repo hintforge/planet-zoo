@@ -32,7 +32,8 @@ The Wikipedia snapshot captured this pass states Endangered. The model's own rec
 - **Food enrichment:** Melon Feeder, Fruit Spike Tree, Dog Ball, Block of Frozen Fruit, Veggie Jelly Cake
 - **Habitat enrichment:** Small Ball Pumpkin, Herb Scent Marker, Rubber Duck, Small Ball, Small Ice Ball, Small Ball Colourful, Sprinkler, Curio Ball
 - **Preferred plants (fifth list on the page):** Alpine Currant, Alpine Phacelia, Azalea
-- **Mixing compatibility (compatible species):** Dama Gazelle (icon only on the wiki; name resolved from the icon file name)
+- **Mixing compatibility:** Dama Gazelle
+- *Note:* the wiki shows an icon only; species name resolved from the icon file name.
 - **Group size:** 1-8 (up to 3 males and 7 females; bachelor groups: males 1-3, females 1-8). Very easy promiscuous breeder, matures at 10 years, gestation 4 months, interbirth 8 months, lifespan 60 years.
 - **Space note (Fandom trivia):** the page says it has the smallest space requirement of any animal, and that 6 tortoises fit in 240 m².
 

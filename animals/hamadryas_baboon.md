@@ -27,7 +27,8 @@
 - **Feeding stations:** Arboreal Feeding Platform, Water Bowl, Water Pipe, Water Trough
 - **Food enrichment:** Small Fixed Roller Feeder, Block of Frozen Fruit, Forage Box, Suspended Forager, Fruit Spike Tree, Veggie Jelly Cake
 - **Habitat enrichment:** Climbing Frame, Ice Block, Bobbin, Bobbin Drum, Cardboard Box, Grab Ball, Mirror Mobile, Gift Box, Musical Keyboard, Sprinkler
-- **Mixing compatibility (compatible species):** African Savannah Elephant (the wiki icon is "afrele"; icon only, name resolved from the icon file name)
+- **Mixing compatibility:** African Savannah Elephant
+- *Note:* the wiki shows an icon only (file name "afrele"); species name resolved from it.
 - **Group size:** 6-100 (up to 30 males and 99 females; bachelor groups of 6-30 either sex). Very easy polygynous breeder, matures at 6 years, gestation 6 months, interbirth 18 months.
 
 ## Real-world biology (Wikipedia-sourced, not in-game data)

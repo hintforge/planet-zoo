@@ -27,7 +27,8 @@
 - **Feeding stations:** Food Trough, Water Bowl, Water Pipe, Water Trough
 - **Food enrichment:** Grazing Ball Feeder, Hanging Grazer Feeder, Large Barrel Feeder, Melon Feeder, Veggie Jelly Cake
 - **Habitat enrichment:** Grab Ball, Herb Scent Marker, Ice Block, Rubbing Pillar, Scots Pine/Tamarind Scratching Tree
-- **Mixing compatibility (compatible species):** Addax, Dama Gazelle, Giraffe (the wiki icon is just "giraffe"; this corpus has the Reticulated Giraffe), Scimitar-Horned Oryx, Somali Wild Ass (icons only on the wiki; names resolved from the icon file names)
+- **Mixing compatibility:** Addax, Dama Gazelle, Giraffe, Scimitar-Horned Oryx, Somali Wild Ass
+- *Note:* the wiki shows icons only; species names resolved from the icon file names. The giraffe icon is just "giraffe" (this corpus has the Reticulated Giraffe).
 - **Group size:** 2-13 (up to 1 male and 12 females; bachelor groups: males 2-9, females 2-13). Easy polygynous breeder, matures at 5 years, gestation 15 months, interbirth 24 months.
 
 ## Real-world biology (Wikipedia-sourced, not in-game data)

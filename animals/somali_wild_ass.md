@@ -29,7 +29,8 @@ Subspecies of the African Wild Ass (*Equus africanus somaliensis*).
 - **Feeding stations:** Food Trough, Water Bowl, Water Pipe, Water Trough
 - **Food enrichment:** Grazing Ball Feeder, Large Barrel Feeder, Hanging Grazer Feeder, Melon Feeder, Scarecrow Feeder, Veggie Jelly Cake
 - **Habitat enrichment:** Musical Keyboard, Large Ball, Grab Ball, Plant Screen, Rubbing Pillar, Scots Pine/Tamarind Scratching Tree, Herb Scent Marker, Large Snow Ball, Water Jet, Water Jet Rock
-- **Mixing compatibility (compatible species):** Addax, Common Ostrich, Dromedary Camel (icons only on the wiki; names resolved from the icon file names)
+- **Mixing compatibility:** Addax, Common Ostrich, Dromedary Camel
+- *Note:* the wiki shows icons only; species names resolved from the icon file names.
 - **Group size:** 1-7 (up to 3 males and 5 females; bachelor groups: males 1-3, females 1-7). Average polygynous breeder, matures at 2 years, gestation 12 months, interbirth 12 months.
 
 ## Real-world biology (Wikipedia-sourced, not in-game data)

@@ -27,7 +27,8 @@
 - **Feeding stations:** Arboreal Feeding Platform, Water Bowl, Water Pipe, Water Trough
 - **Food enrichment:** Small Fixed Roller Feeder, Block of Frozen Fruit, Forage Box, Suspended Forager, Fruit Spike Tree, Veggie Jelly Cake
 - **Habitat enrichment:** Climbing Frame, Ice Block, Cardboard Box, Mirror Mobile, Musical Keyboard, Gift Box, Rubber Duck, Small Ball, Small Ice Ball, Small Ball Colourful, Sprinkler
-- **Mixing compatibility (compatible species):** Black-and-White Ruffed Lemur, Red Ruffed Lemur, Ring-Tailed Lemur (icons only on the wiki; names resolved from the icon file names)
+- **Mixing compatibility:** Black-and-White Ruffed Lemur, Red Ruffed Lemur, Ring-Tailed Lemur
+- *Note:* the wiki shows icons only; species names resolved from the icon file names.
 - **Group size:** 2-6 (up to 5 males and 5 females; bachelor groups 2-6 either sex). Difficult polyandrous breeder, matures at 3 years, gestation 5 months, interbirth 6 months.
 
 ## Real-world biology (Wikipedia-sourced, not in-game data)

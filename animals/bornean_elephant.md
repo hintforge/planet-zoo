@@ -29,7 +29,8 @@ Subspecies of the Asian Elephant (*Elephas maximus borneensis*).
 - **Feeding stations:** Food Trough, Water Bowl, Water Trough, Water Pipe
 - **Food enrichment:** Hanging/Large Barrel Feeder, Large Fixed Roller Feeder, Tree Scatter Feeder
 - **Habitat enrichment:** Gyro, Large Ball, Large Snow Ball, Mud Bath, Rubbing Pillar, Skittle, Snowman Skittle Enrichment, Large Tyre, Sprinkler, Waterfall and Metal Frame, Water Pool
-- **Mixing compatibility (compatible species):** Asian Small-Clawed Otter, Bornean Orangutan, Proboscis Monkey (icons only on the wiki; names resolved from the icon file names)
+- **Mixing compatibility:** Asian Small-Clawed Otter, Bornean Orangutan, Proboscis Monkey
+- *Note:* the wiki shows icons only; species names resolved from the icon file names.
 - **Group size:** 3-30 (up to 1 male and 29 females; bachelor groups: males 3-5, females 3-30). Difficult polygynous breeder, matures at 10 years, gestation 22 months, interbirth 60 months.
 
 ## Real-world biology (Wikipedia-sourced, not in-game data)

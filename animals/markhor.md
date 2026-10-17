@@ -27,7 +27,8 @@
 - **Feeding stations:** Food Trough, Water Trough, Water Pipe, Water Bowl
 - **Food enrichment:** Grazing Ball Feeder, Small Barrel Feeder, Melon Feeder, Hanging Grazer Feeder, Scarecrow Feeder, Veggie Jelly Cake
 - **Habitat enrichment:** Goat Climbing Mountain, Grab Ball, Herb Scent Marker, Rubbing Pillar, Scots Pine/Tamarind Scratching Tree
-- **Mixing compatibility (compatible species):** Takin (icon "takin" only on the wiki; name resolved from the icon file name)
+- **Mixing compatibility:** Takin
+- *Note:* the wiki shows an icon only (file name "takin"); species name resolved from it.
 - **Group size:** 2-12 (up to 1 male and 11 females; bachelor groups of 2-12 either sex). Very easy polygynous breeder, matures at 3 years, gestation 5 months, interbirth 7 months.
 
 ## Real-world biology (Wikipedia-sourced, not in-game data)

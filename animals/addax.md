@@ -29,7 +29,7 @@ Fandom's Addax page agrees on fence grade 2 (over 1.25 m), land 325 m² plus 45 
 - **Feeding stations:** Food Trough, Water Bowl, Water Pipe, Water Trough
 - **Food enrichment:** Grazing Ball Feeder, Small Barrel Feeder, Hanging Grazer Feeder, Melon Feeder, Scarecrow Feeder, Veggie Jelly Cake
 - **Habitat enrichment:** Grab Ball, Rubbing Pillar, Scots Pine/Tamarind Scratching Tree, Herb Scent Marker
-- **Mixing compatibility (compatible species):** Common Ostrich, Dama Gazelle, Dromedary Camel, Somali Wild Ass
+- **Mixing compatibility:** Common Ostrich, Dama Gazelle, Dromedary Camel, Somali Wild Ass
 - **Group size:** 2-25 (up to 1 male and 24 females; bachelor groups of 2-25 either sex). Easy polygynous breeder, matures at 3 years.
 
 ## Real-world biology (Wikipedia-sourced, not in-game data)

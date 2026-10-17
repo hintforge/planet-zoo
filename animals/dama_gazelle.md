@@ -27,7 +27,8 @@
 - **Feeding stations:** Food Trough, Water Bowl, Water Pipe, Water Trough
 - **Food enrichment:** Small Barrel Feeder, Grazing Ball Feeder, Hanging Grazer Feeder, Scarecrow Feeder
 - **Habitat enrichment:** Grab Ball, Herb Scent Marker, Rubbing Pillar, Scots Pine/Tamarind Scratching Tree
-- **Mixing compatibility (compatible species):** Addax, African Spurred Tortoise, Dromedary Camel, Scimitar-Horned Oryx (the wiki shows icons only; names resolved from the icon file names)
+- **Mixing compatibility:** Addax, African Spurred Tortoise, Dromedary Camel, Scimitar-Horned Oryx
+- *Note:* the wiki shows icons only; species names resolved from the icon file names.
 - **Group size:** 3-20 (up to 1 male and 19 females; bachelor groups of 3-20 either sex). Easy polygynous breeder, matures at 1.5 years, gestation 6 months, interbirth 12 months.
 
 ## Real-world biology (Wikipedia-sourced, not in-game data)

@@ -27,7 +27,8 @@
 - **Feeding stations:** Food Trough, Water Pipe, Water Trough, Water Bowl
 - **Food enrichment:** Small Barrel Feeder, Grazing Ball Feeder, Hanging Grazer Feeder, Scarecrow Feeder, Melon Feeder, Veggie Jelly Cake
 - **Habitat enrichment:** Grab Ball, Herb Scent Marker, Rubbing Pillar, Scots Pine/Tamarind Scratching Tree, Large Ball, Large Snow Ball, Plant Screen, Mud Bath
-- **Mixing compatibility (compatible species):** Blackbuck, Indian Elephant, Indian Rhinoceros, Wild Water Buffalo (icons only on the wiki; names resolved from the icon file names)
+- **Mixing compatibility:** Blackbuck, Indian Elephant, Indian Rhinoceros, Wild Water Buffalo
+- *Note:* the wiki shows icons only; species names resolved from the icon file names.
 - **Group size:** 3-10 (up to 1 male and 9 females; bachelor groups of 3-10 either sex). Very easy polygynous breeder, matures at 2.5 years, gestation 8 months, interbirth 16 months.
 
 ## Real-world biology (Wikipedia-sourced, not in-game data)

@@ -27,7 +27,8 @@
 - **Feeding stations:** Food Trough, Water Pipe, Water Trough, Water Bowl
 - **Food enrichment:** Grazing Ball Feeder, Large Barrel Feeder, Hanging Grazer Feeder, Scarecrow Feeder, Melon Feeder, Veggie Jelly Cake
 - **Habitat enrichment:** Grab Ball, Herb Scent Marker, Large Ball, Large Snow Ball, Rubbing Pillar, Scots Pine/Tamarind Scratching Tree, Skittle, Snowman Skittle, Waterfall and Metal Frame, Sprinkler, Mud Bath
-- **Mixing compatibility (compatible species):** Takin (icon only on the wiki; name resolved from the icon file name)
+- **Mixing compatibility:** Takin
+- *Note:* the wiki shows an icon only (file name "takin"); species name resolved from it.
 - **Group size:** 3-9 (up to 1 male and 8 females; bachelor groups of 3-9 either sex). Easy polygynous breeder, matures at 3 years, gestation 9 months.
 - **Fandom note:** the page lists it as the only animal classified Extinct in the Wild in-game.
 
