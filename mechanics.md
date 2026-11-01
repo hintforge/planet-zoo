@@ -580,5 +580,3 @@ _source: Planet Zoo DLC research pass (P3) 2026-08-22, 7 parallel research passe
 - TheGamer, ScreenRant, GameRant, dtgre.com, ludo.guide, steamah.com, gameplay.tips [editorial-en]
 - gamersky.com [editorial-non-en, ZH, translated]
 - GitHub v-duong/PlanetZoo-Genetics (community offspring-probability tool, confirms codon model is community-reverse-engineered)
-
-Full source list per topic preserved in the P1 result file, archived at `research_inbox/p1/_processed/`.

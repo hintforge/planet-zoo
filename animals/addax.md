@@ -9,7 +9,7 @@
 
 **What is now present:** habitat size, water and climbing area, temperature band, biome, terrain composition, barrier grade, group caps and guest tolerance (planetzoohelper.com, 2026-09-17), plus the in-game preferred food, feeding stations, enrichment items and compatible species from the Planet Zoo Fandom Addax page, read in a real browser on 2026-10-07 -- see *Housing & environment* and *In-game care* below. The Fandom page's fence grade, land area and temperature figures match the planetzoohelper ones, so those now have a second source.
 
-**What is still missing:** any species-specific welfare gotcha (the Fandom page lists none). The 2026-08-22 research pass could not reach Fandom (HTTP 402 to automated fetches); a real browser session is not blocked. Raw capture: `research_inbox/manual/fandom_addax_2026-10-07.md`. See `limitations.md`.
+**What is still missing:** any species-specific welfare gotcha (the Fandom page lists none). The 2026-08-22 research pass could not reach Fandom (HTTP 402 to automated fetches); a real browser session is not blocked. See `limitations.md`.
 ## Housing & environment
 
 - **Land min / +per adult:** 325 m² / +45 m² `[planetzoohelper 2026-09-17]`

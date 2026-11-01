@@ -5,7 +5,7 @@
 
 This is a **corpus-declared vector extension** (declared in `architecture_manifest.md`). It is the dominant reference surface for Planet Zoo: one file per species, `animals/<species>.md`, holding that animal's welfare requirements and Zoopedia-grade facts.
 
-**Base-game roster: 78 species** (54 Habitat-type incl. Walkabout-flagged + 24 Exhibit-type incl. 1 Walkthrough Exhibit), cross-validated two ways during P1 ingestion: the Fandom `Category:Base_Game_Animals` index lists 78 items, and an independent continent-by-continent count converges on the same total. This is materially smaller than most players assume -- most "iconic" Planet Zoo megafauna (Jaguar, Koala, Red Kangaroo, Polar Bear, Reindeer, American Alligator, Capybara, Llama, Alpaca, Giant Anteater, Eurasian Lynx, European Bison/Wisent) is **DLC-gated**, not base game. DLC species are out of P1 scope -- see `research_briefs/p3.txt`.
+**Base-game roster: 78 species** (54 Habitat-type incl. Walkabout-flagged + 24 Exhibit-type incl. 1 Walkthrough Exhibit), cross-validated two ways during P1 ingestion: the Fandom `Category:Base_Game_Animals` index lists 78 items, and an independent continent-by-continent count converges on the same total. This is materially smaller than most players assume -- most "iconic" Planet Zoo megafauna (Jaguar, Koala, Red Kangaroo, Polar Bear, Reindeer, American Alligator, Capybara, Llama, Alpaca, Giant Anteater, Eurasian Lynx, European Bison/Wisent) is **DLC-gated**, not base game. DLC species are out of P1 scope.
 
 ## Housing types (four, not three)
 

@@ -23,7 +23,7 @@ Sources I found that look useful but couldn't fully fetch -- paywalls, Cloudflar
 - Block type: cloudflare
 - Why I think it has the answer: full achievement list with global unlock %.
 - What I could glean before the block: nothing (HTTP 403 at fetch time).
-- Best alternative I did get to: the canonical Steam stats page (https://steamcommunity.com/stats/703080/achievements) returned the full 38-achievement list -- captured in `research_briefs/achievement_stubs.md`.
+- Best alternative I did get to: the canonical Steam stats page (https://steamcommunity.com/stats/703080/achievements) returned the full 38-achievement list -- captured in `achievements.md`.
 
 ### Planet Zoo Wiki (Fandom) -- nearly all direct access blocked (P1, 2026-08-21)
 - Source: `planetzoo.fandom.com` (all pages)
@@ -45,7 +45,7 @@ Sources I found that look useful but couldn't fully fetch -- paywalls, Cloudflar
 - No YouTube video was directly transcribed in any P1 or P3 research pass. Video-tutorial content was referenced by title/description only (e.g. German building tutorials, a Chinese 100-tip Steam guide's tip numbers). Attributable to WebSearch/WebFetch budget exhaustion across multiple passes, not an oversight.
 
 ### Reddit (r/PlanetZoo) -- mostly unreachable direct access
-- Direct Reddit access failed nearly every attempt across every P1 research pass (the "reddit tool access forbidden" note appears in the Achievement Coverage source list). A handful of Reddit-sourced facts made it in via forum-thread snippets surfaced through WebSearch (e.g. the Bison "neutral to humans" trait, the Zoo Rating Franchise-sharing silence). P3's passes had mixed Reddit access -- some got old.reddit.com/.json working (used for gap-fill items 4 and 7), others hit 403s and a falsely-flagged "private/quarantined" MCP-tool error on r/PlanetZoo. The framework's `reddit_sweep.md` autonomous module remains the recommended path for systematic community-knowledge coverage of this subreddit -- see the P1 recap in `CHECKPOINT.md`.
+- Direct Reddit access failed nearly every attempt across every P1 research pass (the "reddit tool access forbidden" note appears in the Achievement Coverage source list). A handful of Reddit-sourced facts made it in via forum-thread snippets surfaced through WebSearch (e.g. the Bison "neutral to humans" trait, the Zoo Rating Franchise-sharing silence). P3's passes had mixed Reddit access -- some got old.reddit.com/.json working (used for gap-fill items 4 and 7), others hit 403s and a falsely-flagged "private/quarantined" MCP-tool error on r/PlanetZoo. The framework's `reddit_sweep.md` autonomous module remains the recommended path for systematic community-knowledge coverage of this subreddit.
 
 ### Contradicted stat blocks -- three species -- RESOLVED at P3 (2026-08-22)
 - `animals/greater_flamingo.md`, `animals/red_deer.md`, `animals/timber_grey_wolf.md` each carried two numerically different P1 housing stat blocks. P3's gap-fill re-checked current Fandom pages against the senginous/Villanelle "Details" tab and found they **agree exactly** for patch-current (1.20.2) data -- the P1 contradiction stemmed from a stale/cached wiki snapshot at that research pass. All three files rewritten with the resolved figures; confidence raised to `high`.
@@ -85,9 +85,7 @@ habitat space; (b) the fan-made Zoopedia table at planetzoopedia.com (undated; i
 puts it between the 1.6.0 update of mid-2021 and the Wetlands pack, and one row, Jaguar, is
 older than the rest). Where only (b) was used, a figure counts as settled only because (b)
 agrees with exactly one of the two values AND the official notes show no change to that
-species' space in any version. Raw captures: `research_inbox/manual/` (kept local, not
-published): `planetzoopedia_zoopedia_table_2026-10-07.md`,
-`frontier_official_update_notes_area_lines_2026-10-07.md`.
+species' space in any version. The raw captures of both sources are not published.
 - Settled by an official patch note: Polar Bear land 3,970 -> 3,250 (1.6.0 sets 3250 m2, down
   from 6000). Jaguar land 705 -> 668 and water 398 -> 37 (1.3.0 moved ~5% of land into a
   water requirement; 705 is the pre-1.3.0 figure, 668 + 37 = 705).
