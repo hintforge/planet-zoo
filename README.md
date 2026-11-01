@@ -1,37 +1,36 @@
-# Planet Zoo — Hintforge Companion
+# Planet Zoo
 
-![Planet Zoo companion status — coverage, how current it is, and spoiler control](assets/readme-status-card.svg)
+![Planet Zoo companion status: coverage, how current it is, and spoiler control](assets/readme-status-card.svg)
 
-A spoiler-controlled hint companion for **Planet Zoo**, Frontier's wildlife management sim where you design habitats, breed species, and build the zoo of your dreams across career scenarios and sandbox. Built in the [Hintforge](https://github.com/hintforge/builder) format: a loyal sidekick that answers only from these guide files — never from guesswork — at the spoiler level you set.
+A free hint guide for Planet Zoo, with spoiler settings you control. Get help with Frontier's wildlife management sim, from habitats and breeding to career scenarios and sandbox. Your AI agent answers only from the guide files.
 
 ## Use it
 
-You need a Hintforge reader running in Claude Code, Codex, or OpenClaw. Point it at this repo:
+Install the [reader](https://github.com/hintforge/reader) in any AI agent that can read files on your computer, then tell it:
 
 > Load the Planet Zoo guide from github.com/hintforge/planet-zoo
 
-Then just ask — *"what habitat does a snow leopard need," "how do I breed red pandas," "what are the career scenario goals."* Runtime setup lives in [`hintforge/reader`](https://github.com/hintforge/reader).
+Ask about habitat needs, breeding or career goals. The guide uses the [Hintforge](https://github.com/hintforge/builder) format. The agent reads and writes only files you control.
 
 ## Spoilers
 
-**You** set two independent dials — enemy warnings (Tier 0–5) and puzzle/decision warnings (Tier 0–3) — both **silent by default**; the guide volunteers nothing until you raise one. Planet Zoo is a sandbox sim, so these dials are near-dormant — the real spoiler surface is career-scenario objectives and outcomes, gated by the puzzle dial. There's no save-state reader, so every answer comes from this guide's files.
+Enemy warnings (Tier 0 to 5) and puzzle or decision warnings (Tier 0 to 3) start silent. They rarely matter in sandbox; career objectives and outcomes follow the puzzle dial. There is no save reader.
 
 ## What's inside
 
-A structured Markdown corpus — core mechanics (welfare, conservation, economics, breeding, staff, guests), a 210-species bestiary covering habitat requirements and welfare needs across the base game and 21 DLC packs, career scenarios, controls, settings, and achievements. The companion reads and writes only the files you control.
+- Welfare, conservation, economics, breeding, staff and guests.
+- Habitat and welfare needs for 210 species across the base game and 21 DLC packs.
+- Career scenarios, controls, settings and achievements.
 
-## Zoo Planner
+## Zoo planner
 
 ![The Zoo Planner's four tabs: the species roster, the habitat plan builder, the budget sheet, and the reference tables](assets/readme-thumbnail.png)
 
-A self-contained planner built from this corpus — [`artifacts/zoo_planner.html`](artifacts/zoo_planner.html). Download it, open it in any browser, keep it beside the game. Nothing is installed and nothing leaves your machine.
+Open [`artifacts/zoo_planner.html`](artifacts/zoo_planner.html) in any browser. Nothing is installed or leaves your machine.
 
-- **Roster** — all 210 species in one sortable table: land, water and climbing area, temperature band, group size, sex-ratio cap, biome, diet, mixing, guest tolerance, conservation status and pack. Filter by any of them.
-- **Guest tolerance** — whether a species is `Shy`, `Neutral` or `Confident` around visitors, because the walkabout flag only says the game will *let* you run a path through the habitat, not that the animal will cope. Ten of the 31 walkabout-eligible species are Shy and will sit in low welfare in a busy walkthrough; the roster marks them, and the housing filter offers a guest-tolerant-only shortlist.
-- **Plan** — add species with the sex split you intend to keep; it totals the area the game will demand and flags sex-ratio breaches and group sizes outside the documented range.
-- **Budget** — the four game economies kept apart, your cash and finance-report figures in, what the plan costs out.
-- **Reference** — sex-ratio caps, a worked shop-pricing example, an opening playbook, and the career medal objectives.
+- Roster: sort and filter species by space, temperature, group size, sex ratio, biome, diet, mixing, guest tolerance, conservation status and pack. Ten of 31 walkabout species are Shy; a filter shortlists guest-tolerant animals.
+- Plan: total habitat area and flag sex-ratio or group-size problems.
+- Budget: keep four economies separate, using your finance report. It cannot predict income; ticket-price and guest-spend formulas are unavailable.
+- Reference: sex-ratio caps, shop pricing, opening advice and career medal objectives.
 
-**It does not predict your income.** Planet Zoo publishes no ticket-price or guest-spend formula and nobody has reverse-engineered one, so the budget tab asks for the figures your own finance report already shows rather than dressing a guess up as a projection. Where the corpus has no figure the cell reads *not recorded*, never zero — habitat sizes now exist for all 168 habitat species, and where anything else is absent the tool tells you instead of quietly leaving it out.
-
-Rebuild it after a corpus change with `python build.py` in [`artifacts/`](artifacts/).
+All 168 habitat species have sizes recorded. Missing figures say "not recorded", never zero. Rebuild with `python build.py` in [`artifacts/`](artifacts/).
