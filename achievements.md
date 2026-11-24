@@ -25,6 +25,8 @@ Single source of truth for "what achievements does this game have, and what do I
 
 ## Progression
 
+_source: Steam canonical achievement list https://steamcommunity.com/stats/703080/achievements, with the per-achievement pages listed under Sources at the foot · capture: web_fetch · confidence: medium · category: mainline · vector: achievement_
+
 ### 1. Welcome to Planet Zoo
 - **id:** welcome_to_planet_zoo | **hidden:** no | **trigger_type:** progression
 - **trigger:** Create your player avatar and place it on the world globe (first-run onboarding).
@@ -118,6 +120,8 @@ Single source of truth for "what achievements does this game have, and what do I
 
 ## Mastery
 
+_source: Steam canonical achievement list https://steamcommunity.com/stats/703080/achievements, with the per-achievement pages listed under Sources at the foot · capture: web_fetch · confidence: medium · category: mainline · vector: achievement_
+
 ### 3. Trainer
 - **id:** trainer | **hidden:** no | **trigger_type:** mastery
 - **trigger:** Train one staff member through all 5 tiers (Trainee -> Capable -> Skilled -> Expert -> Master).
@@ -175,6 +179,8 @@ Single source of truth for "what achievements does this game have, and what do I
 
 ## Collection
 
+_source: Steam canonical achievement list https://steamcommunity.com/stats/703080/achievements, with the per-achievement pages listed under Sources at the foot · capture: web_fetch · confidence: medium · category: mainline · vector: achievement_
+
 ### 11. Enriched
 - **id:** enriched | **hidden:** no | **trigger_type:** collection
 - **trigger:** Place 25 different (distinct) enrichment item types across your zoo -- not 25 copies of one item.
@@ -215,6 +221,8 @@ Single source of truth for "what achievements does this game have, and what do I
 - **enemy-tier:** 0 | **puzzle-tier:** 0 | **spoiler:** none
 
 ## Threshold
+
+_source: Steam canonical achievement list https://steamcommunity.com/stats/703080/achievements, with the per-achievement pages listed under Sources at the foot · capture: web_fetch · confidence: medium · category: mainline · vector: achievement_
 
 ### 4. A superstar comes along
 - **id:** a_superstar_comes_along | **hidden:** no | **trigger_type:** threshold
@@ -289,6 +297,8 @@ Single source of truth for "what achievements does this game have, and what do I
 - **enemy-tier:** 0 | **puzzle-tier:** 0 | **spoiler:** none
 
 ## Discovery
+
+_source: Steam canonical achievement list https://steamcommunity.com/stats/703080/achievements, with the per-achievement pages listed under Sources at the foot · capture: web_fetch · confidence: medium · category: mainline · vector: achievement_
 
 ### 6. Oh My!
 - **id:** oh_my | **hidden:** no | **trigger_type:** discovery | **genre:** meta
