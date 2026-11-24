@@ -12,11 +12,11 @@ For Planet Zoo, `sections/` holds **career-scenario walkthroughs** -- the closes
 3. `bear_essentials.md` -- "Panda Park"
 4. `eye_of_the_taiga.md` -- Maple Leaf Wildlife Park, Canada
 5. `go_to_crater_lengths.md` -- Great Caldera Safari Park
-6. `squeezing_the_margins.md` -- Myers Lake Island Zoo, Greece (Dominic Myers arc begins)
-7. `power_struggle.md` -- Myers Animal Entertainment Park, India (Myers arc; "An Elephant Never Forgets" achievement)
+6. `squeezing_the_margins.md` -- Myers Lake Island Zoo, Greece
+7. `power_struggle.md` -- Myers Animal Entertainment Park, India ("An Elephant Never Forgets" achievement)
 8. `steeped_in_pollution.md` -- Myers Rainforest Conservation Project
 9. `hiring_freeze.md` -- "Myers Sunshine Happiness Zoo"
-10. `greener_pastures.md` -- Nevada State Eco-Zoo (Emma Goodwin introduced)
+10. `greener_pastures.md` -- Nevada State Eco-Zoo
 11. `bailing_out.md` -- Yamaguchi Prefecture Tranquillity Zoo, Japan ("Lin-Lin" adoption)
 12. `the_last_leg.md` -- Bernie Goodwin Memorial Zoo, New York (series capstone)
 

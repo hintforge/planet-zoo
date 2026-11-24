@@ -36,11 +36,13 @@
 - **Real diet:** Omnivore -- fruits, berries, agricultural crops
 - **Natural social structure:** Monogamous breeding pairs; unpaired individuals may group until mated
 
+_source: Planet Zoo DLC research pass (P3) 2026-08-22, Wikipedia species page · capture: web_fetch · confidence: medium (biology from Wikipedia; in-game housing from planetzoohelper 2026-09-17; in-game care list from Fandom 2026-10-17) · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Asia Animal Pack_
+
 ## Pack note
 
 This pack's new career scenario features a companion character named "Nugget," a Japanese raccoon dog -- narrative detail, not a mechanical fact.
 
-_source: Planet Zoo DLC research pass (P3) 2026-08-22, Wikipedia species page · capture: web_fetch · confidence: medium (biology from Wikipedia; in-game housing from planetzoohelper 2026-09-17; in-game care list from Fandom 2026-10-17) · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Asia Animal Pack_
+_source: Planet Zoo DLC research pass (P3) 2026-08-22, 7 parallel research passes (aggregate P3 source tag at `mechanics.md` DLC Layer) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 1 · category: mainline · spoiler: dlc:Asia Animal Pack_
 
 ## Sources
 - store.steampowered.com [official-pr, DLC listing]
