@@ -17,8 +17,8 @@ For Planet Zoo, `sections/` holds **career-scenario walkthroughs** -- the closes
 8. `steeped_in_pollution.md` -- Myers Rainforest Conservation Project
 9. `hiring_freeze.md` -- "Myers Sunshine Happiness Zoo"
 10. `greener_pastures.md` -- Nevada State Eco-Zoo
-11. `bailing_out.md` -- Yamaguchi Prefecture Tranquillity Zoo, Japan ("Lin-Lin" adoption)
-12. `the_last_leg.md` -- Bernie Goodwin Memorial Zoo, New York (series capstone)
+11. `bailing_out.md` -- Yamaguchi Prefecture Tranquillity Zoo, Japan
+12. `the_last_leg.md` -- Bernie Goodwin Memorial Zoo, New York
 
 Each scenario file: Location/Theme (spoiler:story), Bronze/Silver/Gold objectives (spoiler:progression), missability note.
 
